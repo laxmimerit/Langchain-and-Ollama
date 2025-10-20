@@ -50,7 +50,7 @@ A quick reference for commands inside Ollama models:
 ```bash
 POST /api/generate
 curl http://localhost:11434/api/generate -d '{
-  "model": "llama3.2:1b",
+  "model": "qwen3",
   "prompt": "Why is the sky blue?",
   "stream": false
 }'
@@ -60,7 +60,7 @@ curl http://localhost:11434/api/generate -d '{
 ```bash
 POST /api/chat
 curl http://localhost:11434/api/chat -d '{
-  "model": "llama3.2:1b",
+  "model": "qwen3",
   "messages": [
     {
       "role": "user",
@@ -76,3 +76,6 @@ curl http://localhost:11434/api/chat -d '{
 ```bash
 ollama create sheldon -f .\mymodelfile.txt
 ```
+
+## Download Link of Unsensored LLM 
+https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GGUF/tree/main

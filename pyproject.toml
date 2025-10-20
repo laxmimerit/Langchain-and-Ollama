@@ -1,0 +1,42 @@
+[project]
+name = "langchain-and-ollama"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ddgs>=9.5.2",
+    "docling>=2.57.0",
+    "docutils>=0.22.2",
+    "docx2txt>=0.9",
+    "duckduckgo-search>=8.1.1",
+    "email-validator>=2.3.0",
+    "faiss-cpu>=1.12.0",
+    "huggingface-hub>=0.35.3",
+    "ipywidgets>=8.1.7",
+    "jupyter>=1.1.1",
+    "langchain>=1.0.0",
+    "langchain-community>=0.4",
+    "langchain-huggingface>=1.0.0",
+    "langchain-ollama>=1.0.0",
+    "langchain-openai>=1.0.0",
+    "langgraph>=1.0.0",
+    "langsmith>=0.4.37",
+    "msoffcrypto-tool>=5.4.2",
+    "nltk>=3.9.2",
+    "ollama>=0.6.0",
+    "openai>=2.5.0",
+    "pymupdf>=1.26.5",
+    "pymysql>=1.1.2",
+    "pypdf2>=3.0.1",
+    "pytube>=15.0.0",
+    "streamlit>=1.50.0",
+    "tavily-python>=0.7.12",
+    "textblob>=0.19.0",
+    "unstructured>=0.18.15",
+    "wikipedia>=1.4.0",
+    "youtube-transcript-api>=1.2.3",
+]
+
+[tool.uv.sources]
+pytube = { git = "https://github.com/pytube/pytube" }
