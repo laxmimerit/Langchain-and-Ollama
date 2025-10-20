@@ -1,0 +1,17 @@
+,"September 28, 2024.Adjusted Cost","September 28, 2024.Unrealized Gains","September 28, 2024.Unrealized Losses","September 28, 2024.Fair Value","September 28, 2024.Cash and Cash Equivalents","September 28, 2024.Current Marketable Securities","September 28, 2024.Non-Current Marketable Securities"
+Cash,"$ 27,199",$ -,$ -,"$ 27,199","$ 27,199",$ -,$ -
+Level 1:,,,,,,,
+Money market funds,778,-,-,778,778,-,-
+Mutual funds,515,105,(3),617,-,617,-
+Subtotal,"1,293",105,(3),"1,395",778,617,-
+Level 2 (1) :,,,,,,,
+U.S. Treasury securities,"16,150",45,(516),"15,679",212,"4,087","11,380"
+U.S. agency securities,"5,431",-,(272),"5,159",155,703,"4,301"
+Non-U.S. government securities,"17,959",93,(484),"17,568","1,158","10,810","5,600"
+Certificates of deposit and time deposits,873,-,-,873,387,478,8
+Commercial paper,"1,066",-,-,"1,066",28,"1,038",-
+Corporate debt securities,"65,622",270,"(1,953)","63,939",26,"16,027","47,886"
+Municipal securities,412,-,(7),405,-,190,215
+Mortgage- and asset-backed securities,"24,595",175,"(1,403)","23,367",-,"1,278","22,089"
+Subtotal,"132,108",583,"(4,635)","128,056","1,966","34,611","91,479"
+Total (2)(3),"$ 160,600",$ 688,"$ (4,638)","$ 156,650","$ 29,943","$ 35,228","$ 91,479"

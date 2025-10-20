@@ -1,0 +1,1214 @@
+(Mark One)
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended December 28, 2024
+
+or
+
+- [ ] ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from              to             .
+
+Commission File Number:
+
+001-36743
+
+<!-- image -->
+
+(Exact name of Registrant as specified in its charter)
+
+California
+
+(State or other jurisdiction of incorporation or organization)
+
+One Apple Park Way Cupertino, California
+
+(Address of principal executive offices)
+
+(408) 996-1010
+
+(Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class                        | Trading symbol(s)   | Name of each exchange on which registered   |
+|--------------------------------------------|---------------------|---------------------------------------------|
+| Common Stock, $0.00001 par value per share | AAPL                | The Nasdaq Stock Market LLC                 |
+| 0.000% Notes due 2025                      | -                   | The Nasdaq Stock Market LLC                 |
+| 0.875% Notes due 2025                      | -                   | The Nasdaq Stock Market LLC                 |
+| 1.625% Notes due 2026                      | -                   | The Nasdaq Stock Market LLC                 |
+| 2.000% Notes due 2027                      | -                   | The Nasdaq Stock Market LLC                 |
+| 1.375% Notes due 2029                      | -                   | The Nasdaq Stock Market LLC                 |
+| 3.050% Notes due 2029                      | -                   | The Nasdaq Stock Market LLC                 |
+| 0.500% Notes due 2031                      | -                   | The Nasdaq Stock Market LLC                 |
+| 3.600% Notes due 2042                      | -                   | The Nasdaq Stock Market LLC                 |
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of  1934  during  the  preceding  12  months  (or  for  such  shorter  period  that  the  Registrant  was  required  to  file  such  reports),  and  (2)  has  been subject to such filing requirements for the past 90 days.
+
+- [x] Yes ☒
+
+- [ ] No ☐
+
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).
+
+- [x] Yes ☒
+
+- [ ] No ☐
+
+94-2404110
+
+(I.R.S. Employer Identification No.)
+
+95014
+
+(Zip Code)
+
+## UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+## FORM 10-Q
+
+Indicate  by  check  mark  whether  the  Registrant  is  a  large  accelerated  filer,  an  accelerated  filer,  a  non-accelerated  filer,  a  smaller  reporting company, or an emerging growth company. See the definitions of 'large accelerated filer,' 'accelerated filer,' 'smaller reporting company,' and 'emerging growth company' in Rule 12b-2 of the Exchange Act.
+
+- [x] Large accelerated filer ☒
+
+- [ ] Accelerated filer ☐
+
+- [ ] Non-accelerated filer ☐
+
+- [ ] Smaller reporting company ☐
+
+- [ ] Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+- [ ] Yes ☐
+
+- [x] No ☒
+
+15,022,073,000 shares of common stock were issued and outstanding as of January 17, 2025.
+
+## Apple Inc.
+
+## Form 10-Q
+
+## For the Fiscal Quarter Ended December 28, 2024
+
+## TABLE OF CONTENTS
+
+|          |                                                                                       | Page   |
+|----------|---------------------------------------------------------------------------------------|--------|
+| Part I   |                                                                                       |        |
+| Item 1.  | Financial Statements                                                                  | 1      |
+| Item 2.  | Management's Discussion and Analysis of Financial Condition and Results of Operations | 12     |
+| Item 3.  | Quantitative and Qualitative Disclosures About Market Risk                            | 17     |
+| Item 4.  | Controls and Procedures                                                               | 17     |
+|          | Part II                                                                               |        |
+| Item 1.  | Legal Proceedings                                                                     | 18     |
+| Item 1A. | Risk Factors                                                                          | 19     |
+| Item 2.  | Unregistered Sales of Equity Securities and Use of Proceeds                           | 20     |
+| Item 3.  | Defaults Upon Senior Securities                                                       | 21     |
+| Item 4.  | Mine Safety Disclosures                                                               | 21     |
+| Item 5.  | Other Information                                                                     | 21     |
+| Item 6.  | Exhibits                                                                              | 21     |
+
+## Item 1. Financial Statements
+
+## Apple Inc.
+
+## CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+
+(In millions, except number of shares, which are reflected in thousands, and per-share amounts)
+
+|                                              | Three Months Ended   | Three Months Ended   |
+|----------------------------------------------|----------------------|----------------------|
+|                                              | December 28, 2024    | December 30, 2023    |
+| Net sales:                                   |                      |                      |
+| Products                                     | $ 97,960             | $ 96,458             |
+| Services                                     | 26,340               | 23,117               |
+| Total net sales                              | 124,300              | 119,575              |
+| Cost of sales:                               |                      |                      |
+| Products                                     | 59,447               | 58,440               |
+| Services                                     | 6,578                | 6,280                |
+| Total cost of sales                          | 66,025               | 64,720               |
+| Gross margin                                 | 58,275               | 54,855               |
+| Operating expenses:                          |                      |                      |
+| Research and development                     | 8,268                | 7,696                |
+| Selling, general and administrative          | 7,175                | 6,786                |
+| Total operating expenses                     | 15,443               | 14,482               |
+| Operating income                             | 42,832               | 40,373               |
+| Other income/(expense), net                  | (248)                | (50)                 |
+| Income before provision for income taxes     | 42,584               | 40,323               |
+| Provision for income taxes                   | 6,254                | 6,407                |
+| Net income                                   | $ 36,330             | $ 33,916             |
+| Earnings per share:                          |                      |                      |
+| Basic                                        | $ 2.41               | $ 2.19               |
+| Diluted                                      | $ 2.40               | $ 2.18               |
+| Shares used in computing earnings per share: |                      |                      |
+| Basic                                        | 15,081,724           | 15,509,763           |
+| Diluted                                      | 15,150,865           | 15,576,641           |
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+## Apple Inc.
+
+## CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (Unaudited)
+
+## (In millions)
+
+|                                                                              | Three Months Ended   | Three Months Ended   |
+|------------------------------------------------------------------------------|----------------------|----------------------|
+|                                                                              | December 28, 2024    | December 30, 2023    |
+| Net income                                                                   | $ 36,330             | $ 33,916             |
+| Other comprehensive income/(loss):                                           |                      |                      |
+| Change in foreign currency translation, net of tax                           | (625)                | 308                  |
+| Change in unrealized gains/losses on derivative instruments, net of tax:     |                      |                      |
+| Change in fair value of derivative instruments                               | 1,651                | (531)                |
+| Adjustment for net (gains)/losses realized and included in net income        | 784                  | (823)                |
+| Total change in unrealized gains/losses on derivative instruments            | 2,435                | (1,354)              |
+| Change in unrealized gains/losses on marketable debt securities, net of tax: |                      |                      |
+| Change in fair value of marketable debt securities                           | (1,647)              | 3,045                |
+| Adjustment for net (gains)/losses realized and included in net income        | 220                  | 75                   |
+| Total change in unrealized gains/losses on marketable debt securities        | (1,427)              | 3,120                |
+| Total other comprehensive income                                             | 383                  | 2,074                |
+| Total comprehensive income                                                   | $ 36,713             | $ 35,990             |
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+## CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+
+(In millions, except number of shares, which are reflected in thousands, and par value)
+
+|                                                                                                                                                                      | December 28, 2024                     | September 28, 2024   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|----------------------|
+| ASSETS:                                                                                                                                                              |                                       |                      |
+| Current assets:                                                                                                                                                      |                                       |                      |
+| Cash and cash equivalents                                                                                                                                            | $ 30,299                              | $ 29,943             |
+| Marketable securities                                                                                                                                                | 23,476                                | 35,228               |
+| Accounts receivable, net                                                                                                                                             | 29,639                                | 33,410               |
+| Vendor non-trade receivables                                                                                                                                         | 29,667                                | 32,833               |
+| Inventories                                                                                                                                                          | 6,911                                 | 7,286                |
+| Other current assets                                                                                                                                                 | 13,248                                | 14,287               |
+| Total current assets                                                                                                                                                 | 133,240                               | 152,987              |
+| Non-current assets:                                                                                                                                                  |                                       |                      |
+| Marketable securities                                                                                                                                                | 87,593                                | 91,479               |
+| Property, plant and equipment, net                                                                                                                                   | 46,069                                | 45,680               |
+| Other non-current assets                                                                                                                                             | 77,183                                | 74,834               |
+| Total non-current assets                                                                                                                                             | 210,845                               | 211,993              |
+| Total assets                                                                                                                                                         | $ 344,085                             | $ 364,980            |
+| LIABILITIES AND SHAREHOLDERS' EQUITY:                                                                                                                                | LIABILITIES AND SHAREHOLDERS' EQUITY: |                      |
+| Current liabilities:                                                                                                                                                 |                                       |                      |
+| Accounts payable                                                                                                                                                     | $ 61,910                              | $ 68,960             |
+| Other current liabilities                                                                                                                                            | 61,151                                | 78,304               |
+| Deferred revenue                                                                                                                                                     | 8,461                                 | 8,249                |
+| Commercial paper                                                                                                                                                     | 1,995                                 | 9,967                |
+| Term debt                                                                                                                                                            | 10,848                                | 10,912               |
+| Total current liabilities                                                                                                                                            | 144,365                               | 176,392              |
+| Non-current liabilities:                                                                                                                                             |                                       |                      |
+| Term debt                                                                                                                                                            | 83,956                                | 85,750               |
+| Other non-current liabilities                                                                                                                                        | 49,006                                | 45,888               |
+| Total non-current liabilities                                                                                                                                        | 132,962                               | 131,638              |
+| Total liabilities                                                                                                                                                    | 277,327                               | 308,030              |
+| Commitments and contingencies                                                                                                                                        |                                       |                      |
+| Shareholders' equity:                                                                                                                                                |                                       |                      |
+| Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 15,040,731 and 15,116,786 shares issued and outstanding, respectively | 84,768                                | 83,276               |
+| Accumulated deficit                                                                                                                                                  | (11,221)                              | (19,154)             |
+| Accumulated other comprehensive loss                                                                                                                                 | (6,789)                               | (7,172)              |
+| Total shareholders' equity                                                                                                                                           | 66,758                                | 56,950               |
+| Total liabilities and shareholders' equity                                                                                                                           | $ 344,085                             | $ 364,980            |
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+## CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY (Unaudited)
+
+(In millions, except per-share amounts)
+
+|                                                                        | Three Months Ended   | Three Months Ended   |
+|------------------------------------------------------------------------|----------------------|----------------------|
+|                                                                        | December 28, 2024    | December 30, 2023    |
+| Total shareholders' equity, beginning balances                         | $ 56,950             | $ 62,146             |
+| Common stock and additional paid-in capital:                           |                      |                      |
+| Beginning balances                                                     | 83,276               | 73,812               |
+| Common stock withheld related to net share settlement of equity awards | (1,891)              | (1,660)              |
+| Share-based compensation                                               | 3,383                | 3,084                |
+| Ending balances                                                        | 84,768               | 75,236               |
+| Retained earnings/(Accumulated deficit):                               |                      |                      |
+| Beginning balances                                                     | (19,154)             | (214)                |
+| Net income                                                             | 36,330               | 33,916               |
+| Dividends and dividend equivalents declared                            | (3,819)              | (3,774)              |
+| Common stock withheld related to net share settlement of equity awards | (1,102)              | (1,018)              |
+| Common stock repurchased                                               | (23,476)             | (20,668)             |
+| Ending balances                                                        | (11,221)             | 8,242                |
+| Accumulated other comprehensive loss:                                  |                      |                      |
+| Beginning balances                                                     | (7,172)              | (11,452)             |
+| Other comprehensive income                                             | 383                  | 2,074                |
+| Ending balances                                                        | (6,789)              | (9,378)              |
+| Total shareholders' equity, ending balances                            | $ 66,758             | $ 74,100             |
+| Dividends and dividend equivalents declared per share or RSU           | $ 0.25               | $ 0.24               |
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+## Apple Inc.
+
+## CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+
+(In millions)
+
+|                                                                                      | Three Months Ended         | Three Months Ended         |
+|--------------------------------------------------------------------------------------|----------------------------|----------------------------|
+| Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances | December 28, 2024 $ 29,943 | December 30, 2023 $ 30,737 |
+| Operating activities:                                                                |                            |                            |
+| Net income                                                                           | 36,330                     | 33,916                     |
+| Adjustments to reconcile net income to cash generated by operating activities:       |                            |                            |
+| Depreciation and amortization                                                        | 3,080                      | 2,848                      |
+| Share-based compensation expense                                                     | 3,286                      | 2,997                      |
+| Other                                                                                | (2,009)                    | (989)                      |
+| Changes in operating assets and liabilities:                                         |                            |                            |
+| Accounts receivable, net                                                             | 3,597                      | 6,555                      |
+| Vendor non-trade receivables                                                         | 3,166                      | 4,569                      |
+| Inventories                                                                          | 215                        | (137)                      |
+| Other current and non-current assets                                                 | 939                        | (1,457)                    |
+| Accounts payable                                                                     | (6,671)                    | (4,542)                    |
+| Other current and non-current liabilities                                            | (11,998)                   | (3,865)                    |
+| Cash generated by operating activities                                               | 29,935                     | 39,895                     |
+| Investing activities:                                                                |                            |                            |
+| Purchases of marketable securities                                                   | (6,124)                    | (9,780)                    |
+| Proceeds from maturities of marketable securities                                    | 15,967                     | 13,046                     |
+| Proceeds from sales of marketable securities                                         | 3,492                      | 1,337                      |
+| Payments for acquisition of property, plant and equipment                            | (2,940)                    | (2,392)                    |
+| Other                                                                                | (603)                      | (284)                      |
+| Cash generated by investing activities                                               | 9,792                      | 1,927                      |
+| Financing activities:                                                                |                            |                            |
+| Payments for taxes related to net share settlement of equity awards                  | (2,921)                    | (2,591)                    |
+| Payments for dividends and dividend equivalents                                      | (3,856)                    | (3,825)                    |
+| Repurchases of common stock                                                          | (23,606)                   | (20,139)                   |
+| Repayments of term debt                                                              | (1,009)                    | -                          |
+| Repayments of commercial paper, net                                                  | (7,944)                    | (3,984)                    |
+| Other                                                                                | (35)                       | (46)                       |
+| Cash used in financing activities                                                    | (39,371)                   | (30,585)                   |
+| Increase in cash, cash equivalents, and restricted cash and cash equivalents         | 356                        | 11,237                     |
+| Cash, cash equivalents, and restricted cash and cash equivalents, ending balances    | $ 30,299                   | $ 41,974                   |
+| Supplemental cash flow disclosure:                                                   |                            |                            |
+| Cash paid for income taxes, net                                                      | $ 18,651                   | $ 7,255                    |
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+## Apple Inc.
+
+## Notes to Condensed Consolidated Financial Statements (Unaudited)
+
+## Note 1 - Summary of Significant Accounting Policies
+
+## Basis of Presentation and Preparation
+
+The  condensed  consolidated  financial  statements  include  the  accounts  of  Apple  Inc.  and  its  wholly  owned  subsidiaries (collectively  'Apple'  or  the  'Company').  In  the  opinion  of  the  Company's  management,  the  condensed  consolidated  financial statements reflect all adjustments, which are normal and recurring in nature, necessary for fair financial statement presentation. The preparation of these condensed consolidated financial statements and accompanying notes in conformity with U.S. generally accepted accounting principles ('GAAP') requires the use of management estimates. These condensed consolidated financial statements and accompanying notes should be read in conjunction with the Company's annual consolidated financial statements and accompanying notes included in its Annual Report on Form 10-K for the fiscal year ended September 28, 2024 (the '2024 Form 10-K').
+
+The Company's fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in the first fiscal quarter every five or six years to realign the Company's fiscal quarters with calendar quarters. The Company's fiscal years 2025 and 2024 span 52 weeks each. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company's fiscal years ended in September and the associated quarters, months and periods of those fiscal years.
+
+## Note 2 - Revenue
+
+Net sales disaggregated by significant products and services for the three months ended December 28, 2024 and December 30, 2023 were as follows (in millions):
+
+|                                 | Three Months Ended   | Three Months Ended   |
+|---------------------------------|----------------------|----------------------|
+|                                 | December 28, 2024    | December 30, 2023    |
+| iPhone ®                        | $ 69,138             | $ 69,702             |
+| Mac ®                           | 8,987                | 7,780                |
+| iPad ®                          | 8,088                | 7,023                |
+| Wearables, Home and Accessories | 11,747               | 11,953               |
+| Services                        | 26,340               | 23,117               |
+| Total net sales                 | $ 124,300            | $ 119,575            |
+
+Total net sales include $3.7 billion of revenue recognized in the three months ended December 28, 2024 that was included in deferred revenue as of September 28, 2024 and $3.5 billion of revenue recognized in the three months ended December 30, 2023 that was included in deferred revenue as of September 30, 2023.
+
+The Company's proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in  Note 10, 'Segment Information and Geographic Data' for the three months ended December 28, 2024 and December 30, 2023, except in Greater China, where iPhone revenue represented a moderately higher proportion of net sales.
+
+As of December 28, 2024 and September 28, 2024, the Company had total deferred revenue of $13.2 billion and $12.8 billion, respectively. As of December 28, 2024, the Company expects 64% of total deferred revenue to be realized in less than a year, 25% within one-to-two years, 9% within two-to-three years and 2% in greater than three years.
+
+## Note 3 - Earnings Per Share
+
+The following table shows the computation of basic and diluted earnings per share for the three months ended December 28, 2024 and December 30, 2023 (net income in millions and shares in thousands):
+
+|                                           | Three Months Ended   | Three Months Ended   |
+|-------------------------------------------|----------------------|----------------------|
+|                                           | December 28, 2024    | December 30, 2023    |
+| Numerator:                                |                      |                      |
+| Net income                                | $ 36,330             | $ 33,916             |
+| Denominator:                              |                      |                      |
+| Weighted-average basic shares outstanding | 15,081,724           | 15,509,763           |
+| Effect of dilutive share-based awards     | 69,141               | 66,878               |
+| Weighted-average diluted shares           | 15,150,865           | 15,576,641           |
+| Basic earnings per share                  | $ 2.41               | $ 2.19               |
+| Diluted earnings per share                | $ 2.40               | $ 2.18               |
+
+## Note 4 - Financial Instruments
+
+## Cash, Cash Equivalents and Marketable Securities
+
+The following tables show the Company's cash, cash equivalents and marketable securities by significant investment category as of December 28, 2024 and September 28, 2024 (in millions):
+
+|                                           | December 28, 2024   | December 28, 2024   | December 28, 2024   | December 28, 2024   | December 28, 2024         | December 28, 2024             | December 28, 2024                 |
+|-------------------------------------------|---------------------|---------------------|---------------------|---------------------|---------------------------|-------------------------------|-----------------------------------|
+|                                           | Adjusted Cost       | Unrealized Gains    | Unrealized Losses   | Fair Value          | Cash and Cash Equivalents | Current Marketable Securities | Non-Current Marketable Securities |
+| Cash                                      | $ 27,073            | $ -                 | $ -                 | $ 27,073            | $ 27,073                  | $ -                           | $ -                               |
+| Level 1:                                  |                     |                     |                     |                     |                           |                               |                                   |
+| Money market funds                        | 937                 | -                   | -                   | 937                 | 937                       | -                             | -                                 |
+| Mutual funds                              | 597                 | 109                 | (7)                 | 699                 | -                         | 699                           | -                                 |
+| Subtotal                                  | 1,534               | 109                 | (7)                 | 1,636               | 937                       | 699                           | -                                 |
+| Level 2 (1) :                             |                     |                     |                     |                     |                           |                               |                                   |
+| U.S. Treasury securities                  | 15,516              | 5                   | (616)               | 14,905              | 903                       | 2,718                         | 11,284                            |
+| U.S. agency securities                    | 5,570               | -                   | (303)               | 5,267               | 314                       | 1,683                         | 3,270                             |
+| Non-U.S. government securities            | 8,596               | 22                  | (819)               | 7,799               | 50                        | 2,524                         | 5,225                             |
+| Certificates of deposit and time deposits | 1,147               | -                   | (13)                | 1,134               | 874                       | 247                           | 13                                |
+| Commercial paper                          | 418                 | -                   | (19)                | 399                 | 101                       | 298                           | -                                 |
+| Corporate debt securities                 | 61,566              | 96                  | (2,210)             | 59,452              | 47                        | 14,451                        | 44,954                            |
+| Municipal securities                      | 355                 | -                   | (7)                 | 348                 | -                         | 189                           | 159                               |
+| Mortgage- and asset-backed securities     | 25,313              | 29                  | (1,987)             | 23,355              | -                         | 667                           | 22,688                            |
+| Subtotal                                  | 118,481             | 152                 | (5,974)             | 112,659             | 2,289                     | 22,777                        | 87,593                            |
+| Total (2)(3)                              | $ 147,088           | $ 261               | $ (5,981)           | $ 141,368           | $ 30,299                  | $ 23,476                      | $ 87,593                          |
+
+|                                           | September 28, 2024   | September 28, 2024   | September 28, 2024   | September 28, 2024   | September 28, 2024        | September 28, 2024            | September 28, 2024                |
+|-------------------------------------------|----------------------|----------------------|----------------------|----------------------|---------------------------|-------------------------------|-----------------------------------|
+|                                           | Adjusted Cost        | Unrealized Gains     | Unrealized Losses    | Fair Value           | Cash and Cash Equivalents | Current Marketable Securities | Non-Current Marketable Securities |
+| Cash                                      | $ 27,199             | $ -                  | $ -                  | $ 27,199             | $ 27,199                  | $ -                           | $ -                               |
+| Level 1:                                  |                      |                      |                      |                      |                           |                               |                                   |
+| Money market funds                        | 778                  | -                    | -                    | 778                  | 778                       | -                             | -                                 |
+| Mutual funds                              | 515                  | 105                  | (3)                  | 617                  | -                         | 617                           | -                                 |
+| Subtotal                                  | 1,293                | 105                  | (3)                  | 1,395                | 778                       | 617                           | -                                 |
+| Level 2 (1) :                             |                      |                      |                      |                      |                           |                               |                                   |
+| U.S. Treasury securities                  | 16,150               | 45                   | (516)                | 15,679               | 212                       | 4,087                         | 11,380                            |
+| U.S. agency securities                    | 5,431                | -                    | (272)                | 5,159                | 155                       | 703                           | 4,301                             |
+| Non-U.S. government securities            | 17,959               | 93                   | (484)                | 17,568               | 1,158                     | 10,810                        | 5,600                             |
+| Certificates of deposit and time deposits | 873                  | -                    | -                    | 873                  | 387                       | 478                           | 8                                 |
+| Commercial paper                          | 1,066                | -                    | -                    | 1,066                | 28                        | 1,038                         | -                                 |
+| Corporate debt securities                 | 65,622               | 270                  | (1,953)              | 63,939               | 26                        | 16,027                        | 47,886                            |
+| Municipal securities                      | 412                  | -                    | (7)                  | 405                  | -                         | 190                           | 215                               |
+| Mortgage- and asset-backed securities     | 24,595               | 175                  | (1,403)              | 23,367               | -                         | 1,278                         | 22,089                            |
+| Subtotal                                  | 132,108              | 583                  | (4,635)              | 128,056              | 1,966                     | 34,611                        | 91,479                            |
+| Total (2)(3)                              | $ 160,600            | $ 688                | $ (4,638)            | $ 156,650            | $ 29,943                  | $ 35,228                      | $ 91,479                          |
+
+- (1) The valuation techniques used to measure the fair values of the Company's Level 2 financial instruments, which generally have counterparties with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.
+- (2) As  of  December  28,  2024  and  September  28,  2024,  cash  and  cash  equivalents  included  $126  million  and  $2.6  billion, respectively, held in escrow and restricted from general use. These restricted cash and cash equivalents are designated to settle the Company's obligation related to the 2016 European Commission (the 'Commission') decision that Ireland granted state aid to the Company (the 'State Aid Decision'), which was confirmed during the fourth quarter of 2024 by the European Court of Justice in a reversal of the 2020 judgment of the European General Court.
+- (3) As of December 28, 2024 and September 28, 2024, current marketable securities included $3.3 billion and $13.2 billion, respectively, held in escrow and restricted from general use. These restricted marketable securities are designated to settle the Company's obligation related to the State Aid Decision.
+
+As  of  December  28,  2024,  85%  of  the  Company's  non-current  marketable  debt  securities  other  than  mortgage-  and  assetbacked securities had maturities between 1 and 5 years, 11% between 5 and 10 years, and 4% greater than 10 years. As of December 28, 2024, 13% of the Company's non-current mortgage- and asset-backed securities had maturities between 1 and 5 years, 10% between 5 and 10 years, and 77% greater than 10 years.
+
+## Derivative Instruments and Hedging
+
+The Company may use derivative instruments to partially offset its business exposure to foreign exchange and interest rate risk. However, the Company may choose not to hedge certain exposures for a variety of reasons, including accounting considerations or the prohibitive economic cost of hedging particular exposures. There can be no assurance the hedges will offset more than a portion of the financial impact resulting from movements in foreign exchange or interest rates.
+
+## Foreign Exchange Rate Risk
+
+To  protect  gross  margins  from  fluctuations  in  foreign  exchange  rates,  the  Company  may  use  forwards,  options  or  other instruments,  and  may  designate  these  instruments  as  cash  flow  hedges.  The  Company  generally  hedges  portions  of  its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.
+
+To  protect  the  Company's  foreign  currency-denominated  term  debt  or  marketable  securities  from  fluctuations  in  foreign exchange rates, the Company may use forwards, cross-currency swaps or other instruments. The Company designates these instruments as either cash flow or fair value hedges. As of December 28, 2024, the maximum length of time over which the Company is hedging its exposure to the variability in future cash flows for term debt-related foreign currency transactions is 18 years.
+
+The Company may also use derivative instruments that are not designated as accounting hedges to protect gross margins from certain fluctuations in foreign exchange rates, as well as to offset a portion of the foreign currency gains and losses generated by the remeasurement of certain assets and liabilities denominated in non-functional currencies.
+
+## Interest Rate Risk
+
+To protect the Company's term debt or marketable securities from fluctuations in interest rates, the Company may use interest rate swaps, options or other instruments. The Company designates these instruments as either cash flow or fair value hedges.
+
+The notional amounts of the Company's outstanding derivative instruments as of December 28, 2024 and September 28, 2024 were as follows (in millions):
+
+|                                                             | December 28, 2024   | September 28, 2024   |
+|-------------------------------------------------------------|---------------------|----------------------|
+| Derivative instruments designated as accounting hedges:     |                     |                      |
+| Foreign exchange contracts                                  | $ 47,466            | $ 64,069             |
+| Interest rate contracts                                     | $ 14,575            | $ 14,575             |
+| Derivative instruments not designated as accounting hedges: |                     |                      |
+| Foreign exchange contracts                                  | $ 96,150            | $ 91,493             |
+
+As of December 28, 2024 and September 28, 2024, the carrying amount of the Company's current and non-current term debt subject to fair value hedges was $13.3 billion and $13.5 billion, respectively.
+
+## Accounts Receivable
+
+## Trade Receivables
+
+As of December 28, 2024, the Company had two customers that individually represented 10% or more of total trade receivables, which accounted for 18% and 11%. The Company's third-party cellular network carriers accounted for 33% and 38% of total trade  receivables  as  of  December  28,  2024  and  September  28,  2024,  respectively.  The  Company  requires  third-party  credit support or collateral from certain customers to limit credit risk.
+
+## Vendor Non-Trade Receivables
+
+The Company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to these vendors who manufacture subassemblies or assemble final products for the Company. The Company purchases these components directly from suppliers. The Company does not reflect the sale of these components in products net sales. Rather, the Company recognizes any gain on these sales as a reduction of products cost of sales when the related final products are sold by the Company. As of December 28, 2024, the Company had two vendors that individually represented 10% or more of total  vendor  non-trade  receivables,  which  accounted  for  43%  and  24%.  As  of  September  28,  2024,  the  Company  had  two vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for 44% and 23%.
+
+## Note 5 - Condensed Consolidated Financial Statement Details
+
+The following tables show the Company's condensed consolidated financial statement details as of December 28, 2024 and September 28, 2024 (in millions):
+
+## Inventories
+
+|                   | December 28, 2024   | September 28, 2024   |
+|-------------------|---------------------|----------------------|
+| Components        | $ 2,792             | $ 3,627              |
+| Finished goods    | 4,119               | 3,659                |
+| Total inventories | $ 6,911             | $ 7,286              |
+
+## Property, Plant and Equipment, Net
+
+|                                          | December 28, 2024   | September 28, 2024   |
+|------------------------------------------|---------------------|----------------------|
+| Gross property, plant and equipment      | $ 120,615           | $ 119,128            |
+| Accumulated depreciation                 | (74,546)            | (73,448)             |
+| Total property, plant and equipment, net | $ 46,069            | $ 45,680             |
+
+## Note 6 - Debt
+
+## Commercial Paper
+
+The Company issues unsecured short-term promissory notes pursuant to a commercial paper program. The Company uses net proceeds from the commercial paper program for general corporate purposes, including dividends and share repurchases. As of December 28, 2024 and September 28, 2024, the Company had $2.0 billion and $10.0 billion of commercial paper outstanding, respectively.
+
+## Term Debt
+
+As of December 28, 2024 and September 28, 2024, the Company had outstanding fixed-rate notes with varying maturities for an aggregate carrying amount of $94.8 billion and $96.7 billion, respectively (collectively the 'Notes'). As of December 28, 2024 and September  28,  2024,  the  fair  value  of  the  Company's  Notes,  based  on  Level  2  inputs,  was  $82.7  billion  and  $88.4  billion, respectively.
+
+## Note 7 - Shareholders' Equity
+
+## Share Repurchase Program
+
+During the three months ended December 28, 2024, the Company repurchased 100 million shares of its common stock for $23.3 billion.  The  Company's  share  repurchase  program  does  not  obligate  the  Company  to  acquire  a  minimum  amount  of  shares. Under  the  program,  shares  may  be  repurchased  in  privately  negotiated  or  open  market  transactions,  including  under  plans complying with Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (the 'Exchange Act').
+
+## Note 8 - Share-Based Compensation
+
+## Restricted Stock Units
+
+A summary of the Company's RSU activity and related information for the three months ended December 28, 2024 is as follows:
+
+|                                  | Number of RSUs (in thousands)   | Weighted-Average Grant-Date Fair Value Per RSU   |
+|----------------------------------|---------------------------------|--------------------------------------------------|
+| Balance as of September 28, 2024 | 163,326                         | $ 158.73                                         |
+| RSUs granted                     | 61,391                          | $ 228.04                                         |
+| RSUs vested                      | (35,683)                        | $ 147.36                                         |
+| RSUs canceled                    | (2,278)                         | $ 174.77                                         |
+| Balance as of December 28, 2024  | 186,756                         | $ 183.49                                         |
+
+The total vesting-date fair value of RSUs was $8.4 billion and $7.7 billion for the three months ended December 28, 2024 and December 30, 2023, respectively.
+
+## Share-Based Compensation
+
+The following table shows share-based compensation expense and the related income tax benefit included in the Condensed Consolidated Statements of Operations for the three months ended December 28, 2024 and December 30, 2023 (in millions):
+
+|                                                                | Three Months Ended   | Three Months Ended   |
+|----------------------------------------------------------------|----------------------|----------------------|
+|                                                                | December 28, 2024    | December 30, 2023    |
+| Share-based compensation expense                               | $ 3,286              | $ 2,997              |
+| Income tax benefit related to share-based compensation expense | $ (1,332)            | $ (1,235)            |
+
+As of December 28, 2024, the total unrecognized compensation cost related to outstanding RSUs was $29.2 billion, which the Company expects to recognize over a weighted-average period of 2.9 years.
+
+## Note 9 - Contingencies
+
+The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have not been fully resolved. The outcome of litigation is inherently uncertain. In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss greater than a recorded accrual, concerning loss contingencies for asserted legal and other claims.
+
+## Note 10 - Segment Information and Geographic Data
+
+The following table shows information by reportable segment for the three months ended December 28, 2024 and December 30, 2023 (in millions):
+
+|                       | Three Months Ended   | Three Months Ended   |
+|-----------------------|----------------------|----------------------|
+|                       | December 28, 2024    | December 30, 2023    |
+| Americas:             |                      |                      |
+| Net sales             | $ 52,648             | $ 50,430             |
+| Operating income      | $ 21,509             | $ 20,357             |
+| Europe:               |                      |                      |
+| Net sales             | $ 33,861             | $ 30,397             |
+| Operating income      | $ 14,607             | $ 12,711             |
+| Greater China:        |                      |                      |
+| Net sales             | $ 18,513             | $ 20,819             |
+| Operating income      | $ 8,160              | $ 8,622              |
+| Japan:                |                      |                      |
+| Net sales             | $ 8,987              | $ 7,767              |
+| Operating income      | $ 4,314              | $ 3,819              |
+| Rest of Asia Pacific: |                      |                      |
+| Net sales             | $ 10,291             | $ 10,162             |
+| Operating income      | $ 4,584              | $ 4,579              |
+
+A reconciliation of the Company's segment operating income to the Condensed Consolidated Statements of Operations for the three months ended December 28, 2024 and December 30, 2023 is as follows (in millions):
+
+|                                  | Three Months Ended   | Three Months Ended   |
+|----------------------------------|----------------------|----------------------|
+|                                  | December 28, 2024    | December 30, 2023    |
+| Segment operating income         | $ 53,174             | $ 50,088             |
+| Research and development expense | (8,268)              | (7,696)              |
+| Other corporate expenses, net    | (2,074)              | (2,019)              |
+| Total operating income           | $ 42,832             | $ 40,373             |
+
+## Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+This Item and other sections of this Quarterly Report on Form 10-Q ('Form 10-Q') contain forward-looking statements, within the  meaning  of  the  Private  Securities  Litigation  Reform  Act  of  1995,  that  involve  risks  and  uncertainties.  Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Form 10-Q regarding the potential future impact of macroeconomic conditions on the Company's business and results of operations are forward-looking statements . Forward-looking statements can also be identified by words such as 'future,' 'anticipates,' 'believes,' 'estimates,' 'expects,' 'intends,' 'plans,' 'predicts,' 'will,' 'would,' 'could,' 'can,' 'may,' and similar terms. Forward-looking statements are not guarantees of future performance and the Company's actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of the 2024 Form 10-K and Part II, Item 1A of this Form 10-Q, in each case under the heading 'Risk Factors.' The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+
+Unless  otherwise  stated,  all  information  presented  herein  is  based  on  the  Company's  fiscal  calendar,  and  references  to particular  years,  quarters,  months  or  periods  refer  to  the  Company's  fiscal  years  ended  in  September  and  the  associated quarters, months and periods of those fiscal years.
+
+The following discussion should be read in conjunction with the 2024 Form 10-K filed with the U.S. Securities and Exchange Commission (the 'SEC') and the condensed consolidated financial statements and accompanying notes included in Part I, Item 1 of this Form 10-Q.
+
+## Available Information
+
+The Company periodically provides certain information for investors on its corporate website, www.apple.com, and its investor relations  website,  investor.apple.com.  This  includes  press  releases  and  other  information  about  financial  performance, information  on  environmental,  social  and  governance  matters,  and  details  related  to  the  Company's  annual  meeting  of shareholders. The information contained on the websites referenced in this Form 10-Q is not incorporated by reference into this filing. Further, the Company's references to website URLs are intended to be inactive textual references only.
+
+## Business Seasonality and Product Introductions
+
+The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales  and  operating  expenses.  The  timing  of  product  introductions  can  also  impact  the  Company's  net  sales  to  its  indirect distribution  channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches. Net sales can also be affected when consumers and distributors anticipate a product introduction.
+
+During the first quarter of 2025, the Company announced the following product updates:
+
+- MacBook Pro ®
+- Mac mini ®
+- iMac ®
+- iPad mini ®
+
+## Macroeconomic Conditions
+
+Macroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could in the future materially impact, the Company's results of operations and financial condition.
+
+## Segment Operating Performance
+
+The following table shows net sales by reportable segment for the three months ended December 28, 2024 and December 30, 2023 (dollars in millions):
+
+|                      | Three Months Ended   | Three Months Ended   | Three Months Ended   |
+|----------------------|----------------------|----------------------|----------------------|
+|                      | December 28, 2024    | December 30, 2023    | Change               |
+| Americas             | $ 52,648             | $ 50,430             | 4 %                  |
+| Europe               | 33,861               | 30,397               | 11 %                 |
+| Greater China        | 18,513               | 20,819               | (11)%                |
+| Japan                | 8,987                | 7,767                | 16 %                 |
+| Rest of Asia Pacific | 10,291               | 10,162               | 1 %                  |
+| Total net sales      | $ 124,300            | $ 119,575            | 4 %                  |
+
+## Americas
+
+Americas net sales increased during the first quarter of 2025 compared to the same quarter in 2024 due primarily to higher net sales of Services and iPhone. The weakness in foreign currencies relative to the U.S. dollar had an unfavorable year-over-year impact on Americas net sales during the first quarter of 2025.
+
+## Europe
+
+Europe net sales increased during the first quarter of 2025 compared to the same quarter in 2024 due primarily to higher net sales of Services and iPhone. The strength in foreign currencies relative to the U.S. dollar had a net favorable year-over-year impact on Europe net sales during the first quarter of 2025.
+
+## Greater China
+
+Greater China net sales decreased during the first quarter of 2025 compared to the same quarter in 2024 due to lower net sales of iPhone. The strength in the renminbi relative to the U.S. dollar had a favorable year-over-year impact on Greater China net sales during the first quarter of 2025.
+
+## Japan
+
+Japan net sales increased during the first quarter of 2025 compared to the same quarter in 2024 due primarily to higher net sales of iPhone and Services.
+
+## Rest of Asia Pacific
+
+Rest of Asia Pacific net sales were relatively flat during the first quarter of 2025 compared to the same quarter in 2024.
+
+## Products and Services Performance
+
+The  following  table  shows  net  sales  by  category  for  the  three  months  ended  December  28,  2024  and  December  30,  2023 (dollars in millions):
+
+|                                 | Three Months Ended   | Three Months Ended   | Three Months Ended   |
+|---------------------------------|----------------------|----------------------|----------------------|
+|                                 | December 28, 2024    | December 30, 2023    | Change               |
+| iPhone                          | $ 69,138             | $ 69,702             | (1)%                 |
+| Mac                             | 8,987                | 7,780                | 16 %                 |
+| iPad                            | 8,088                | 7,023                | 15 %                 |
+| Wearables, Home and Accessories | 11,747               | 11,953               | (2)%                 |
+| Services                        | 26,340               | 23,117               | 14 %                 |
+| Total net sales                 | $ 124,300            | $ 119,575            | 4 %                  |
+
+## iPhone
+
+iPhone net sales were relatively flat during the first quarter of 2025 compared to the same quarter in 2024.
+
+## Mac
+
+Mac net sales increased during the first quarter of 2025 compared to the same quarter in 2024 due primarily to higher net sales of laptops.
+
+## iPad
+
+iPad net sales increased during the first quarter of 2025 compared to the same quarter in 2024 due primarily to higher net sales of iPad Air ® .
+
+## Wearables, Home and Accessories
+
+Wearables, Home and Accessories net sales decreased during the first quarter of 2025 compared to the same quarter in 2024 due primarily to lower net sales of Wearables.
+
+## Services
+
+Services net sales increased during the first quarter of 2025 compared to the same quarter in 2024 due primarily to higher net sales from advertising, the App Store ®  and cloud services.
+
+## Gross Margin
+
+Products  and  Services  gross  margin  and  gross  margin  percentage  for  the  three  months  ended  December  28,  2024  and December 30, 2023 were as follows (dollars in millions):
+
+|                               | Three Months Ended   | Three Months Ended   |
+|-------------------------------|----------------------|----------------------|
+|                               | December 28, 2024    | December 30, 2023    |
+| Gross margin:                 |                      |                      |
+| Products                      | $ 38,513             | $ 38,018             |
+| Services                      | 19,762               | 16,837               |
+| Total gross margin            | $ 58,275             | $ 54,855             |
+| Gross margin percentage:      |                      |                      |
+| Products                      | 39.3%                | 39.4%                |
+| Services                      | 75.0%                | 72.8%                |
+| Total gross margin percentage | 46.9%                | 45.9%                |
+
+## Products Gross Margin
+
+Products gross margin and Products gross margin percentage were relatively flat during the first quarter of 2025 compared to the same quarter in 2024.
+
+## Services Gross Margin
+
+Services gross margin increased during the first quarter of 2025 compared to the same quarter in 2024 due primarily to higher Services net sales and a different Services mix.
+
+Services gross margin percentage increased during the first quarter of 2025 compared to the same quarter in 2024 due primarily to a different Services mix, partially offset by higher Services costs.
+
+The Company's future gross margins can be impacted by a variety of factors, as discussed in Part I, Item 1A of the 2024 Form 10-K and Part II, Item 1A of this Form 10-Q, in each case under the heading 'Risk Factors.' As a result, the Company believes, in general, gross margins will be subject to volatility and downward pressure.
+
+## Operating Expenses
+
+Operating  expenses  for  the  three  months  ended  December  28,  2024  and  December  30,  2023  were  as  follows  (dollars  in millions):
+
+|                                     | Three Months Ended   | Three Months Ended   |
+|-------------------------------------|----------------------|----------------------|
+|                                     | December 28, 2024    | December 30, 2023    |
+| Research and development            | $ 8,268              | $ 7,696              |
+| Percentage of total net sales       | 7%                   | 6%                   |
+| Selling, general and administrative | $ 7,175              | $ 6,786              |
+| Percentage of total net sales       | 6%                   | 6%                   |
+| Total operating expenses            | $ 15,443             | $ 14,482             |
+| Percentage of total net sales       | 12%                  | 12%                  |
+
+## Research and Development
+
+The growth in research and development expense during the first quarter of 2025 compared to the same quarter in 2024 was driven primarily by increases in headcount-related expenses and infrastructure-related costs.
+
+## Selling, General and Administrative
+
+The growth in selling, general and administrative expense during the first quarter of 2025 compared to the same quarter in 2024 was driven primarily by higher variable selling expenses and increases in headcount-related expenses.
+
+## Provision for Income Taxes
+
+Provision for income taxes, effective tax rate and statutory federal income tax rate for the three months ended December 28, 2024 and December 30, 2023 were as follows (dollars in millions):
+
+|                                   | Three Months Ended   | Three Months Ended   |
+|-----------------------------------|----------------------|----------------------|
+|                                   | December 28, 2024    | December 30, 2023    |
+| Provision for income taxes        | $ 6,254              | $ 6,407              |
+| Effective tax rate                | 14.7%                | 15.9%                |
+| Statutory federal income tax rate | 21%                  | 21%                  |
+
+The Company's effective tax rate for the first quarter of 2025 was lower than the statutory federal income tax rate due primarily to a lower effective tax rate on foreign earnings, tax benefits from share-based compensation, the impact of foreign currency loss regulations  issued  by  the  U.S.  Department  of  the  Treasury  in  December  2024,  and  the  tax  impact  from  foreign  currency revaluations related to the State Aid Decision.
+
+The Company's effective tax rate for the first quarter of 2025 was lower compared to the same quarter in 2024 due primarily to the impact of foreign currency loss regulations issued by the U.S. Department of the Treasury in December 2024 and the tax impact  from  foreign  currency  revaluations  related  to  the  State  Aid  Decision,  partially  offset  by  a  higher  effective  tax  rate  on foreign earnings.
+
+## Liquidity and Capital Resources
+
+The Company believes its balances of unrestricted cash, cash equivalents and marketable securities, along with cash generated by ongoing operations and continued access to debt markets, will be sufficient to satisfy its cash requirements and capital return program over the next 12 months and beyond.
+
+The Company's contractual cash requirements have not changed materially since the 2024 Form 10-K, except for commercial paper, manufacturing purchase obligations and the State Aid Decision tax payable.
+
+## Commercial Paper
+
+The Company issues unsecured short-term promissory notes pursuant to a commercial paper program. As of December 28, 2024, the Company had $2.0 billion of commercial paper outstanding, which was payable within 12 months.
+
+## Manufacturing Purchase Obligations
+
+The Company utilizes several outsourcing partners to manufacture subassemblies for the Company's products and to perform final assembly and testing of finished products. The Company also obtains individual components for its products from a wide variety of individual suppliers. As of December 28, 2024, the Company had manufacturing purchase obligations of $39.8 billion, which were payable within 12 months.
+
+## State Aid Decision Tax Payable
+
+During  the  first  quarter  of  2025,  the  Company  paid  €11.0  billion  or  $11.9  billion  to  Ireland  in  connection  with  the  State  Aid Decision.  As  of  December  28,  2024,  the  Company  had  a  remaining  obligation  to  pay  €3.3  billion  or  $3.4  billion,  which  was expected  to  be  paid  within  12  months.  The  funds  necessary  to  settle  the  remaining  obligation  were  held  in  escrow  as  of December 28, 2024, and restricted from general use.
+
+## Capital Return Program
+
+In addition to its contractual cash requirements, the Company has an authorized share repurchase program. The program does not obligate the Company to acquire a minimum amount of shares. As of December 28, 2024, the Company's quarterly cash dividend was $0.25 per share. The Company intends to increase its dividend on an annual basis, subject to declaration by the Board of Directors.
+
+During the first quarter of 2025, the Company repurchased $23.3 billion of its common stock and paid dividends and dividend equivalents of $3.9 billion.
+
+## Recent Accounting Pronouncements
+
+## Disaggregation of Income Statement Expenses
+
+In November 2024, the Financial Accounting Standards Board (the 'FASB') issued Accounting Standards Update ('ASU') No. 2024-03, Income  Statement-Reporting  Comprehensive  Income-Expense  Disaggregation  Disclosures  (Subtopic  220-40): Disaggregation  of  Income  Statement  Expenses ('ASU 2024-03') and in  January  2025,  the  FASB  issued  ASU  No.  2025-01, Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40): Clarifying the Effective Date , which clarified the effective date of ASU 2024-03. ASU 2024-03 will require the Company to disclose the amounts of  purchases of inventory, employee compensation, depreciation and intangible asset amortization, as applicable, included in certain  expense  captions  in  the  Consolidated  Statements  of  Operations,  as  well  as  qualitatively  describe  remaining  amounts included  in  those  captions.  ASU  2024-03  will  also  require  the  Company  to  disclose  both  the  amount  and  the  Company's definition of selling expenses. The Company will adopt ASU 2024-03 in its fourth quarter of 2028 using a prospective transition method.
+
+## Income Taxes
+
+In December 2023, the FASB issued ASU No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures ('ASU 2023-09'), which will require the Company to disclose specified additional information in its income tax rate reconciliation and provide additional information for reconciling items that meet a quantitative threshold. ASU 2023-09 will also require the Company  to  disaggregate  its  income  taxes  paid  disclosure  by  federal,  state  and  foreign  taxes,  with  further  disaggregation required  for  significant  individual  jurisdictions.  The  Company  will  adopt  ASU  2023-09  in  its  fourth  quarter  of  2026  using  a prospective transition method.
+
+## Segment Reporting
+
+In November 2023, the FASB issued ASU No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures ('ASU 2023-07'), which will require the Company to disclose segment expenses that are significant and regularly provided to  the  Company's chief  operating  decision  maker  ('CODM').  In  addition,  ASU  2023-07  will  require  the  Company  to disclose the title and position of its CODM and how the CODM uses segment profit or loss information in assessing segment performance and deciding how to allocate resources. The Company will adopt ASU 2023-07 in its fourth quarter of 2025 using a retrospective transition method.
+
+## Critical Accounting Estimates
+
+The preparation of financial statements and related disclosures in conformity with GAAP and the Company's discussion and analysis of its financial condition and operating results require the Company's management to make judgments, assumptions and estimates that affect the amounts reported. Note 1, 'Summary of Significant Accounting Policies' of the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Form 10-Q and in the Notes to Consolidated Financial Statements in Part II, Item 8 of the 2024 Form 10-K describe the significant accounting policies and methods used in the preparation of the Company's  condensed  consolidated  financial  statements.  There  have  been  no  material  changes  to  the  Company's  critical accounting estimates since the 2024 Form 10-K.
+
+## Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+There have been no material changes to the Company's market risk during the first three months of 2025. For a discussion of the Company's exposure to market risk, refer to the Company's market risk disclosures set forth in Part II, Item 7A, 'Quantitative and Qualitative Disclosures About Market Risk' of the 2024 Form 10-K.
+
+## Item 4. Controls and Procedures
+
+## Evaluation of Disclosure Controls and Procedures
+
+Based on an evaluation under the supervision and with the participation of the Company's management, the Company's principal executive officer and principal financial officer have concluded that the Company's disclosure controls and procedures as defined in  Rules  13a-15(e)  and  15d-15(e)  under  the  Exchange  Act  were  effective  as  of  December  28,  2024  to  provide  reasonable assurance that information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is (i)  recorded,  processed,  summarized  and  reported  within  the  time  periods  specified  in  the  SEC  rules  and  forms  and (ii)  accumulated  and  communicated  to  the  Company's  management,  including  its  principal  executive  officer  and  principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+
+## Changes in Internal Control over Financial Reporting
+
+There were no changes in the Company's internal control over financial reporting during the first quarter of 2025, which were identified  in  connection  with  management's  evaluation  required  by  paragraph  (d)  of  Rules  13a-15  and  15d-15  under  the Exchange Act, that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting.
+
+## PART II  -  OTHER INFORMATION
+
+## Item 1. Legal Proceedings
+
+## Digital Markets Act Investigations
+
+On  March  25,  2024,  the  Commission  announced  that  it  had  opened  two  formal  noncompliance  investigations  against  the Company under the European Union ('EU') Digital Markets Act (the 'DMA'). The Commission's investigations concern (1) Article 5(4)  of  the  DMA,  which  relates  to  how  developers  may  communicate  and  promote  offers  to  end  users  for  apps  distributed through the App Store as well as how developers may conclude contracts with those end users; and (2) Article 6(3) of the DMA, which  relates  to  default  settings,  uninstallation  of  apps,  and  a  web  browser  choice  screen  on  iOS.  On  June  24,  2024,  the Commission announced its preliminary findings in the Article 5(4) investigation alleging that the Company's App Store rules are in breach of the DMA and announced that it had opened a third formal investigation against the Company regarding whether the Company's  new  contractual  requirements  for  third-party  app  developers  and  app  marketplaces  may  violate  the  DMA.  If  the Commission makes a final determination that there has been a violation, it can issue a cease and desist order and may impose fines up to 10% of the Company's annual worldwide net sales. Although any decision by the Commission can be appealed to the General Court of the EU, the effectiveness of the Commission's order would apply immediately while the appeal is pending, unless a stay of the order is granted. The Company believes that it complies with the DMA and has continued to make changes to its compliance plan in response to feedback and engagement with the Commission.
+
+## Department of Justice Lawsuit
+
+On March 21, 2024, the U.S. Department of Justice (the 'DOJ') and a number of state and district attorneys general filed a civil antitrust  lawsuit  in  the  U.S.  District  Court  for  the  District  of  New  Jersey  against  the  Company  alleging  monopolization  or attempted monopolization in the markets for 'performance smartphones' and 'smartphones' in violation of U.S. antitrust laws. The DOJ is seeking equitable relief to redress the alleged anticompetitive behavior. In addition, various civil litigation matters have been filed in state and federal courts in the U.S. alleging similar violations of U.S. antitrust laws and seeking monetary damages and other nonmonetary relief. The Company believes it has substantial defenses and intends to vigorously defend itself.
+
+## Epic Games
+
+Epic Games, Inc. ('Epic') filed a lawsuit in the U.S. District Court for the Northern District of California (the 'California District Court') against the Company alleging violations of federal and state antitrust laws and California's unfair competition law based upon the Company's operation of its App Store. The California District Court found that certain provisions of the Company's App Store  Review  Guidelines  violate  California's  unfair  competition  law  and  issued  an  injunction  enjoining  the  Company  from prohibiting  developers  from  including  in  their  apps  external  links  that  direct  customers  to  purchasing  mechanisms  other  than Apple in-app purchasing. The injunction applies to apps on the U.S. storefront of the iOS and iPadOS ®  App Store. On January 16, 2024, the Company implemented a plan to comply with the injunction and filed a statement of compliance with the California District  Court.  A  motion  by  Epic  disputing  the  Company's  compliance  plan  and  seeking  to  enforce  the  injunction,  which  the Company has opposed, is pending before the California District Court. On September 30, 2024, the Company filed a motion with the California District Court to narrow or vacate the injunction. The Company believes it has substantial defenses and intends to vigorously defend itself.
+
+## Other Legal Proceedings
+
+The Company is subject to other legal proceedings and claims that have not been fully resolved and that have arisen in the ordinary course of business. The Company settled certain matters during the first quarter of 2025 that did not individually or in the  aggregate  have  a  material  impact  on  the  Company's  financial  condition  or  operating  results.  The  outcome  of  litigation  is inherently uncertain. If one or more legal matters were resolved against the Company in a reporting period for amounts above management's expectations, the Company's financial condition and operating results for that reporting period could be materially adversely affected.
+
+## Item 1A. Risk Factors
+
+The Company's business, reputation, results of operations, financial condition and stock price can be affected by a number of factors,  whether  currently  known  or  unknown,  including  those  described  in  Part  I,  Item  1A  of  the 2024  Form  10-K  under  the heading 'Risk Factors.' When any one or more of these risks materialize from time to time, the Company's business, reputation, results of operations, financial condition and stock price can be materially and adversely affected. Except as set forth below, there have been no material changes to the Company's risk factors since the 2024 Form 10-K.
+
+## The  Company  is  subject  to  complex  and  changing  laws  and  regulations  worldwide,  which  exposes  the  Company  to potential liabilities, increased costs and other adverse effects on the Company's business.
+
+The Company's global operations are subject to complex and changing laws and regulations on subjects including antitrust; privacy, data security and data localization; consumer protection; advertising, sales, billing and e-commerce; financial services and  technology;  product  liability;  intellectual  property  ownership  and  infringement;  digital  platforms;  machine  learning  and artificial  intelligence;  internet,  telecommunications  and  mobile  communications;  media,  television,  film  and  digital  content; availability  of  third-party  software  applications  and  services;  labor  and  employment;  anticorruption;  import,  export  and  trade; foreign exchange controls and cash repatriation restrictions; anti-money laundering; foreign ownership and investment; national security; tax; and environmental, health and safety, including electronic waste, recycling, product design and climate change.
+
+Compliance with these laws and regulations is onerous and expensive. New and changing laws, regulations, executive orders, directives, and enforcement priorities can adversely affect the Company's business by increasing the Company's costs, limiting the  Company's ability to  offer  a  product,  service  or  feature  to  customers,  imposing  changes  to  the  design  of  the  Company's products  and  services,  impacting  customer  demand  for  the  Company's  products  and  services,  and  requiring  changes  to  the Company's  business  or  supply  chain.  New  and  changing  laws,  regulations,  executive  orders,  directives,  and  enforcement priorities can also create uncertainty about how such laws and regulations will be interpreted and applied.
+
+Risks  and  costs  related  to  new  and  changing  laws,  regulations,  executive  orders,  directives,  and  enforcement  priorities  may increase  as  the  Company's  products  and  services  are  introduced  into  specialized  applications,  including  health  and  financial services, or as the Company expands the use of technologies, such as machine learning and artificial intelligence features, and must navigate new legal, regulatory and ethical considerations relating to such technologies. The Company has implemented policies and procedures designed to ensure compliance with applicable laws and regulations, but there can be no assurance the Company's  employees,  contractors  or  agents  will  not  violate  such  laws  and  regulations  or  the  Company's  policies  and procedures. If the Company is found to have violated laws and regulations, it could materially adversely affect the Company's business, reputation, results of operations and financial condition.
+
+Regulatory changes and other actions that materially adversely affect the Company's business may be announced with little or no  advance  notice  and  the  Company  may  not  be  able  to  effectively  mitigate  all  adverse  impacts  from  such  measures.  For example, the Company is subject to changing regulations relating to the export and import of its products. Although the Company has programs, policies and procedures in place that are designed to satisfy regulatory requirements, there can be no assurance that such policies and procedures will be effective in preventing a violation or a claim of a violation. As a result, the Company's products  could  be  banned,  delayed  or  prohibited  from  importation,  which  could  materially  adversely  affect  the  Company's business, reputation, results of operations and financial condition.
+
+## The technology industry, including, in some instances, the Company, is subject to intense media, political and regulatory scrutiny, which exposes the Company to increasing regulation, government investigations, legal actions and penalties.
+
+From  time  to  time,  the  Company  has  made  changes  to  its  App  Store,  including  actions  taken  in  response  to  litigation, competition, market conditions and legal and regulatory requirements. The Company expects to make further business changes in the future. For example, in the U.S. the Company has implemented changes to how developers communicate with consumers within apps on the U.S. storefront of the iOS and iPadOS App Store regarding alternative purchasing mechanisms.
+
+The Company has also implemented changes to iOS, iPadOS, the App Store and Safari in the EU as it seeks to comply with the DMA, including new business terms and alternative fee structures for iOS and iPadOS apps, alternative methods of distribution for  iOS  and  iPadOS apps, alternative payment processing for apps across the Company's operating systems, and additional tools and application programming interfaces ('APIs') for developers. The Company has also continued to make changes to its compliance plan in response to feedback and engagement with the Commission. Although the Company's compliance plan is intended to address the DMA's obligations, it has been challenged by the Commission and may be challenged further by private litigants. The DMA provides for significant fines and penalties for noncompliance, and other jurisdictions may seek to require the Company to make changes to its business. While the changes introduced by the Company in the EU are intended to reduce new privacy and security risks that the DMA poses to EU users, many risks will remain.
+
+The Company is also currently subject to antitrust investigations and litigation in various jurisdictions around the world, which can result  in  legal  proceedings  and  claims  against  the  Company  that  could,  individually  or  in  the  aggregate,  have  a  materially adverse impact on the Company's business, results of operations and financial condition. For example, the Company is subject to  civil  antitrust  lawsuits  in  the  U.S.  alleging  monopolization  or  attempted  monopolization  in  the  markets  for  'performance smartphones'  and  'smartphones'  generally  in  violation  of  U.S.  antitrust  laws.  In  addition,  the  Company  is  the  subject  of investigations in Europe and other jurisdictions relating to App Store terms and conditions. If such investigations or litigation are resolved against the Company, the Company can be exposed to significant fines and may be required to make further changes to its business practices, all of which could materially adversely affect the Company's business, reputation, results of operations and financial condition.
+
+Further, the Company has commercial relationships with other companies in the technology industry that are or may become subject  to  investigations  and  litigation  that,  if  resolved  against  those  other  companies,  could  materially  adversely  affect  the Company's  commercial  relationships  with  those  business  partners  and  materially  adversely  affect  the  Company's  business, results of operations and financial condition. For example, the Company earns revenue from licensing arrangements with Google LLC ('Google') and other companies to offer their search services on the Company's platforms and applications, and certain of these arrangements are currently subject to government investigations and legal proceedings. On August 5, 2024, Google was found  to  have  violated  U.S.  antitrust  laws.  In  connection  with  this  finding,  the  DOJ  has  proposed  remedies,  which  include changes to Google's products, services and business models. The proposed changes vary in scope and severity and range from imposing significant restrictions on Google's licensing agreements to prohibiting Google from offering the Company commercial terms for search distribution for up to 10 years. If implemented, such remedies could materially adversely affect the Company's ability to earn revenue from such licensing arrangements.
+
+There can be no assurance the Company's business, results of operations and financial condition will not be materially adversely affected, individually or in the aggregate, by the outcomes of such investigations, litigation or changes to laws and regulations in the future. Changes to the Company's business practices to comply with new laws and regulations or in connection with other legal  proceedings  can  negatively  impact  the  reputation  of  the  Company's  products  for  privacy  and  security  and  otherwise adversely  affect  the  experience  for  users  of  the  Company's  products  and  services,  and  result  in  harm  to  the  Company's reputation, loss of competitive advantage, poor market acceptance, reduced demand for products and services, lost sales, and lower profit margins.
+
+## Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+## Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+
+Share repurchase activity  during  the  three  months  ended December  28,  2024  was  as  follows  (in  millions,  except  number  of shares, which are reflected in thousands, and per-share amounts):
+
+| Periods                                        | Total Number of Shares Purchased   | Average Price Paid Per Share   | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs   | Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs (1)   |
+|------------------------------------------------|------------------------------------|--------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| September 29, 2024 to November 2, 2024:        |                                    |                                |                                                                                    |                                                                                                |
+| Open market and privately negotiated purchases | 41,627                             | $ 229.51                       | 41,627                                                                             |                                                                                                |
+| November 3, 2024 to November 30, 2024:         |                                    |                                |                                                                                    |                                                                                                |
+| Open market and privately negotiated purchases | 32,784                             | $ 227.13                       | 32,784                                                                             |                                                                                                |
+| December 1, 2024 to December 28, 2024:         |                                    |                                |                                                                                    |                                                                                                |
+| Open market and privately negotiated purchases | 25,379                             | $ 248.05                       | 25,379                                                                             |                                                                                                |
+| Total                                          | 99,790                             |                                |                                                                                    | $ 65,779                                                                                       |
+
+(1) As of December 28, 2024, the Company was authorized by the Board of Directors to purchase up to $110 billion of the Company's common stock under a share repurchase program announced on May 2, 2024, of which $44.2 billion had been utilized. The program does not obligate the Company to acquire a minimum amount of shares. Under the program, shares may be repurchased in privately negotiated or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.
+
+## Item 3. Defaults Upon Senior Securities
+
+None.
+
+## Item 4. Mine Safety Disclosures
+
+Not applicable.
+
+## Item 5. Other Information
+
+## Insider Trading Arrangements
+
+On November 6, 2024, Luca Maestri, the Company's former Senior Vice President and Chief Financial Officer, and current Vice President, Corporate Services, entered into a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan provides for the sale, subject to certain price limits, of shares vesting between April 1, 2025 and October 15, 2025, pursuant to certain equity awards granted to Mr. Maestri, excluding any shares withheld by the Company to  satisfy  income tax withholding and remittance obligations. Mr. Maestri's plan will expire on December 31, 2025, subject to early termination in accordance with the terms of the plan.
+
+On November 25, 2024, Kate Adams, the Company's Senior Vice President, General Counsel and Secretary, entered into a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan provides for  the  sale  of  shares  vesting  between  April  1,  2025  and  October  1,  2025,  pursuant  to  certain  equity  awards  granted  to  Ms. Adams, excluding any shares withheld by the Company to satisfy income tax withholding and remittance obligations. Ms. Adam's plan will expire on November 1, 2025, subject to early termination in accordance with the terms of the plan.
+
+## Item 6. Exhibits
+
+|                |                                                                                                                                                                                      | Incorporated by Reference   | Incorporated by Reference   | Incorporated by Reference    |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----------------------------|------------------------------|
+| Exhibit Number | Exhibit Description                                                                                                                                                                  | Form                        | Exhibit                     | Filing Date/ Period End Date |
+| 10.1*, **      | Apple Inc. Employee Stock Purchase Plan, as amended as of November 6, 2024.                                                                                                          |                             |                             |                              |
+| 10.2*, **      | Apple Inc. Non-Employee Director Stock Plan, as amended November 6, 2024.                                                                                                            |                             |                             |                              |
+| 31.1**         | Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer.                                                                                                                 |                             |                             |                              |
+| 31.2**         | Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer.                                                                                                                 |                             |                             |                              |
+| 32.1***        | Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer.                                                                                                  |                             |                             |                              |
+| 101**          | Inline XBRL Document Set for the condensed consolidated financial statements and accompanying notes in Part I, Item 1, 'Financial Statements' of this Quarterly Report on Form 10-Q. |                             |                             |                              |
+| 104**          | Inline XBRL for the cover page of this Quarterly Report on Form 10-Q, included in the Exhibit 101 Inline XBRL Document Set.                                                          |                             |                             |                              |
+
+* Indicates management contract or compensatory plan or arrangement.
+- ** Filed herewith.
+- *** Furnished herewith.
+
+## SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Date: January 31, 2025
+
+Apple Inc.
+
+By: /s/ Kevan Parekh
+
+Kevan Parekh Senior Vice President, Chief Financial Officer
+
+## APPLE INC. EMPLOYEE STOCK PURCHASE PLAN
+
+(As Amended as of November 6, 2024)
+
+This  Apple  Inc.  Employee  Stock  Purchase  Plan  (as  it  may  be  amended  from  time  to time, the 'Plan') as amended and restated on March 10, 2015 (the 'Effective Date') and as  further  amended  by  the  Board  on  November  6,  2024  shall  govern  all  grants  of Options as to which Shares are to be delivered under the Plan.
+
+- (1) Purpose  of  the  Plan.    The  purpose  of  the  Plan  is  to  encourage  and  enable Eligible  Employees  of  the  Company  and  certain  of  its  Subsidiaries  to  acquire proprietary interests in the Company through the ownership of Shares.  It is the intention of the Company to have this Plan and the Options granted pursuant to this Plan satisfy the requirements for 'employee stock purchase plans' that are set  forth  under  Section  423  of  the  Code,  although  the  Company  makes  no undertaking to, nor representation that it will, maintain the qualified status of this Plan or such Options.  In addition, Options that do not satisfy the requirements for 'employee stock purchase plans' that are set forth under Section 423 of the Code may be granted under this Plan pursuant to the rules, procedures, or subplans adopted by the Board for Eligible Employees.
+- (2) Definitions.  Unless otherwise provided in the Plan, capitalized terms, when used herein, shall have the following respective meanings:
+3. (a) 'Account' shall mean  a  bookkeeping account established and maintained  to  record  the  amount  of  funds  accumulated  pursuant  to the  Plan  with  respect  to  a  Participant  for  the  purpose  of  purchasing Shares under this Plan.
+4. (b) 'Administrator' shall mean the Board, the People and Compensation Committee  of  the  Board,  or  any  other  committee  appointed  by  the Board.
+5. (c) 'Applicable  Laws' shall  mean  all  applicable  securities,  tax  and exchange control laws, rules, regulations, and requirements, including,  but  not  limited  to,  U.S.  state  corporate  laws,  U.S.  federal and state securities laws, the Code, the rules of any stock exchange or quotation system on which the Shares are listed or quoted and the applicable securities, tax and exchange control laws, rules, regulations,  and  requirements  of  any  other  country  or  jurisdiction where Options are granted under the Plan or where Eligible Employees reside or provide services, as such laws, rules, regulations, and requirements shall be in effect from time to time.
+6. (d) 'Board' shall mean the Company's Board of Directors.
+
+<!-- image -->
+
+- (e) 'Code' shall  mean  the  U.S.  Internal  Revenue  Code  of  1986,  as amended, and the regulations and interpretations promulgated thereunder.
+- (f) 'Common Stock' shall mean the Company's common stock, $0.00001 par value per Share.
+- (g) 'Company' shall mean Apple Inc., a California corporation.
+- (h) 'Designated Subsidiaries' shall mean any Subsidiary designated by the  Administrator  from  time  to  time,  in  its  sole  discretion,  whose employees may participate in the Plan, if such employees otherwise qualify as Eligible Employees.  The Administrator may provide that the non-U.S. Eligible Employees of any Designated Subsidiary shall only be eligible to participate in the Non-423(b) Offering.
+- (i) 'Eligible  Compensation' shall  mean  and  refer  to  the  Participant's cash  compensation  paid  through  the  Company's  or  a  Designated Subsidiary's payroll system for personal services actually rendered in the course of employment.  Eligible Compensation shall be limited to amounts  received  by  the  Participant  during  the  period  he  or  she  is participating  in  the  Plan  and  includes  salary  and  other  wages, amounts contributed by the Participant to any benefit plan maintained by the Company or any Designated Subsidiary (including any 401(k) plan,  125  plan,  or  any  other  deferred  compensation  plan),  overtime pay,  commissions, draws against commissions, shift premiums, sick pay,  vacation  pay,  holiday  pay,  and  shutdown  pay,  except  to  the extent that the exclusion of any such item (or a sub-set of any such item)  is  specifically  directed  by  the  Administrator  for  all  Eligible Employees.    Notwithstanding  the  preceding,  Eligible  Compensation does not include any incentive or other bonus payments (unless the inclusion  of  any  incentive  or  other  bonus  payment  is  specifically directed by the Administrator for all Eligible Employees), remuneration paid in a form other than cash, fringe benefits (including car allowances and relocation  payments),  employee  discounts,  expense reimbursement or allowances, long-term disability payments, worker's compensation payments, welfare benefits, and any contributions that the Company or any Designated Subsidiary makes to any benefit plan (including any 401(k) plan or any other welfare or retirement plan).
+- (j) 'Eligible  Employee' shall  mean  any  natural  person,  including  an officer, who is regularly employed by the Company or any Designated Subsidiary.
+- (k) 'Enrollment Agreement' means the agreement(s) between the Company  and  an  Eligible  Employee,  in  such  written,  electronic,  or other  format  and/or  pursuant  to  such  written,  electronic,  or  other process as may be established by the Administrator from time to time, pursuant  to  which  an  Eligible  Employee  elects  to  participate  in  this
+
+Plan or elects to make changes with respect to such participation as permitted by this Plan.
+
+- (l) 'Enrollment Period' shall mean that period of time prescribed by the Administrator, which period shall conclude prior to the Offering Date, during  which  Eligible  Employees  may  elect  to  participate  in  an Offering Period.  The duration and timing of Enrollment Periods may be changed or modified by the Administrator from time to time.
+- (m) 'Fair  Market  Value' shall  mean,  unless  otherwise  determined  or provided by the Administrator in the circumstances, the closing price (in  regular  trading)  for  a  Share  of  Common  Stock  on  the  NASDAQ Stock Market (the 'Market') for the date in question or, if no sales of Common Stock  were  reported  on  the  Market  on  that  date,  the  last price (in regular trading) for a Share of Common Stock on the Market for  the  next  preceding  day  on  which  sales  of  Common  Stock  were reported  on  the  Market.    The  Administrator  may,  however,  provide with respect to one or more Options that the Fair Market Value shall equal the last price for a Share of Common Stock on the Market on the last Trading Day preceding the date in question or the average of the high and low trading prices of a Share of Common Stock on the Market for the date in question or the most recent Trading Day.  If the Common Stock is no longer listed or is no longer actively traded on the  Market  as  of  the  applicable  date,  the  Fair  Market  Value  of  the Common Stock shall be the value as reasonably determined by the Administrator  for  purposes  of  the  Plan  in  the  circumstances.    The Administrator also may adopt a different methodology for determining Fair Market Value with respect to one or more Options if a different methodology  is  necessary  or  advisable  to  secure  any  intended favorable tax, legal, or other treatment for the particular Option(s) (for example,  and  without  limitation,  the  Administrator  may  provide  that Fair Market Value for purposes of one or more Options will be based on an average of closing prices (or the average of high and low daily trading prices) for a specified period preceding the relevant date).
+- (n) 'Non-423(b) Offering' shall mean the rules, procedures, or sub-plans, if any, adopted by the Administrator as a part of this Plan, pursuant to which  Options  that  do  not  satisfy  the  requirements  for  'employee stock  purchase  plans'  that  are  set  forth  under  Section  423  of  the Code may be granted to  Eligible  Employees  as  a  separate  offering under the Plan.
+- (o) 'Offering  Date' shall  mean  the  first  business  day  of  each  Offering Period as designated by the Administrator.
+- (p) 'Offering Period' shall mean the period established in advance by the Administrator, which period shall not exceed  twenty-seven  (27) months, during which payroll deductions shall be collected to purchase  Shares  pursuant  to  an  offering  made  under  this  Plan.
+
+Unless otherwise established by the Administrator prior to the start of an  Offering  Period,  there  shall  be  two  (2)  Offering  Periods  that commence  each  year,  and  each  shall  be  of  approximately  six  (6) months' duration, with the first such Offering Period beginning on the first business day of February and ending on the last business day of the immediately following July, and the second such Offering Period beginning on the first business day of August and ending on the last business day of the immediately following January; provided, however,  that  as  of  the  Effective  Date  and  subject  to  shareholder approval as of such date, this Plan shall apply to the Offering Period beginning on the first business day of February, 2015.
+
+- (q) 'Option' shall  mean  the  right  granted  to  Participants  to  purchase Shares pursuant to an offering made under this Plan.
+- (r) ' Outstanding Election' shall mean a Participant's then-current election to purchase Shares in an Offering Period, or that part of such an  election  which  has  not  been  cancelled  (including  any  voluntary cancellation under Section (9) and deemed cancellation under Section (14))  prior  to  the  close  of  business  on  the  last  Trading  Day  of  the Offering Period or such other date as determined by the Administrator.
+- (s) 'Participant' shall  mean  an  Eligible  Employee  who  has  elected  to participate in the Plan pursuant to Section (6).
+- (t) 'Prior  Plan' shall  mean  the  Apple  Inc.  Employee  Stock  Purchase Plan, as amended and restated effective as of March 8, 2010.
+- (u) 'Purchase  Price  Per  Share' shall  mean  the  price  determined  or provided  by  the  Administrator  in  the  circumstances  but  shall  not  be less than the lesser of (i) eighty-five percent (85%) of the Fair Market Value on the Offering Date or (ii) eighty-five percent (85%) of the Fair Market Value on the last Trading Day of the Offering Period.
+- (v) 'Share' shall mean one (1) share of Common Stock.
+- (w) 'Subsidiary' shall mean any corporation (other than the Company) in an  unbroken  chain  of  corporations  beginning  with  the  Company  if each  of  the  corporations  other  than  the  last  corporation  in  the unbroken chain owns stock possessing fifty percent (50%) or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.  A corporation that attains the status of a Subsidiary on a date after the Effective Date shall be considered a Subsidiary commencing as of such date.
+- (x) 'Termination  of  Service' means,  with  respect  to  an  employee,  a cessation of the employee-employer relationship between the employee  and  the  Company  or  a  Designated  Subsidiary  for  any reason, (i) including but not by way of limitation, (A) a termination by
+
+resignation, discharge, death, disability, retirement, or the disaffiliation of  a  Subsidiary,  (B)  unless  otherwise determined or provided by the Administrator, a transfer of employment to a Subsidiary that is not a Designated  Subsidiary  as  of  the  first  day  immediately  following  the three (3)-month period following such transfer, and (C) a termination of  employment  where  the  individual  continues  to  provide  certain services to the Company or a Subsidiary in a non-employee role, but (ii)  excluding  (A)  such  termination  where  there  is  a  simultaneous reemployment by the Company or a Designated Subsidiary and (B) any  bona  fide  and  Company-approved  leave  of  absence,  such  as family leave, medical  leave,  personal  leave,  and  military leave; provided,  however,  where  the  period  of  leave  exceeds  three  (3) months and the employee's right to reemployment is not guaranteed either  by  statute  or  by  contract,  the  employee-employer  relationship will  be  deemed  to  have  terminated  on  the  first  day  immediately following such three (3)-month period.
+
+- (y) 'Trading Day' shall  mean a day on which the NASDAQ is open for trading.
+- (3) Shares Reserved for the Plan.  Subject to adjustment pursuant to Section (17), the  maximum  number  of  Shares  that  may  be  delivered  pursuant  to  Options granted under this Plan (including any Non-423(b) Offering established hereunder) shall equal the sum of (i) 50,000,000 Shares and (ii) the number of Shares previously reserved for issuance under the Prior Plan but not delivered pursuant to Options as of the Effective Date; provided that in no event shall the maximum  number  of  Shares  reserved  for  issuance  under  the  Plan  exceed 57,591,146  Shares  (which  is  the  sum  of  (x)  the  50,000,000  Shares  set  forth above, plus (y) the number of Shares available for issuance under the Prior Plan on November 13, 2014).  The Shares reserved for issuance pursuant to this Plan may be authorized but unissued Shares, treasury Shares, or Shares purchased on the open market.  If any Option granted under the Plan shall for any reason terminate without having been exercised, the Shares not purchased under such Option shall again become available for issuance under the Plan.
+
+If  the  number  of  Shares  to  be  purchased by Participants on the last day of an Offering  Period  exceeds  the  total  number  of  Shares  then  available  under  the Plan, then the Administrator shall make a pro-rata allocation of any Shares that may be issued pursuant to the Plan in as uniform and equitable a manner as is reasonably practicable, as determined in the Administrator's sole discretion.  In such event, the Company shall provide written notice to each affected Participant of the reduction of the number of Shares to be purchased under the Participant's Option.
+
+If the Administrator determines that some or all of the Shares to be purchased by Participants  on  the  last  day  of  an  Offering  Period  would  not  be  issued  in accordance with Applicable Laws or any approval by any regulatory body as may be required, or the Shares would not be issued pursuant to an effective Form S-8 registration statement or that the issuance of some or all of such Shares pursuant
+
+to  a  Form  S-8  registration  statement  is  not  advisable  due  to  the  risk  that  such issuance will violate Applicable Laws, the Administrator may, without Participant consent,  terminate  any  outstanding  Offering  Period  and  the  Options  granted pursuant  thereto  and  refund  in  cash  all  affected  Participants'  entire  Account balances for such Offering Period as soon as practicable thereafter.
+
+In the Administrator's discretion, fractional Shares may be issuable upon exercise of the Options under the Plan.
+
+- (4) Administration  of  the  Plan.    The  Administrator  shall  have  the  authority  and responsibility for the day-to-day administration of the Plan, which, to the extent permitted by the laws of the State of California and applicable U.S. Federal laws, it  may delegate to a sub-committee.  Subject to the provisions of the Plan, the Administrator shall have full authority, in its sole discretion, to take any actions it deems necessary or advisable for the administration of the Plan, including, but not limited to:
+2. (a) Interpreting  the  Plan  and  prescribing,  adopting,  and  rescinding  rules and regulations it deems appropriate to implement the Plan, including amending  any  outstanding  Option,  as  it  may  deem  advisable  or necessary  to  comply  with  Applicable  Laws,  and  making  all  other decisions relating to the operation of the Plan;
+3. (b) Establishing the timing and length of Offering Periods;
+4. (c) Establishing minimum and maximum contribution rates;
+5. (d) Establishing new or changing existing limits on the number of Shares an  Eligible  Employee  may  elect  to  purchase  with  respect  to  any Offering Period, if such limits are announced prior to the first Offering Period to be affected;
+6. (e) Adopting  such  rules  or  sub-plans  as  may  be  deemed  necessary  or appropriate to comply with the laws of other countries, allow for taxpreferred  treatment  of  the  Options  or  otherwise  provide  for  the participation by Eligible Employees who reside outside of the United States, including determining which Eligible Employees are eligible to participate in the Non-423(b) Offering or other sub-plans established by the Administrator; and
+7. (f) Establishing  the  exchange  ratio  applicable  to  amounts  withheld  in  a currency other than U.S. dollars and permitting payroll withholding in excess of the amount designated by a Participant in order to adjust for delays or mistakes in the processing of properly completed Enrollment Agreements.
+
+The  Administrator's  determinations  under  the  Plan  shall  be  final, conclusive, and binding on all persons.  Neither the Board, the People and  Compensation  Committee  of  the  Board,  any  other  committee appointed by the Board, nor any of their agents or designees shall be
+
+liable  for  any  act,  failure  to  act,  or  determination  made  in  good  faith with respect to the Plan.
+
+- (5) Grant of Option; Limitations.
+2. (a) Grant  of  Option.    On  each  Offering  Date,  each  Participant  shall automatically be granted an Option to purchase as many Shares (or, as applicable, fractions of a Share) as the Participant will be able to purchase  with  the  payroll  deductions  credited  to  the  Participant's Account during the applicable Offering Period.
+3. (b) Limit on Number of Shares Purchased.  Notwithstanding the above, in no event may a Participant purchase more than one million (1,000,000)  Shares  in  any  one  Offering  Period,  unless  otherwise expressly  provided  by  the  Administrator  in  advance  of  that  Offering Period.
+4. (c) Limit on Value of Shares Purchased.  Notwithstanding any provisions of the Plan to the contrary, excluding Options granted pursuant to any Non-423(b)  Offering,  no  Participant  shall  be  granted  an  Option  to purchase Shares under this Plan which permits the Participant's rights to purchase Shares under all 'employee stock purchase plans' (described in Section 423 of the Code) of the Company and its Subsidiaries to accrue at a rate which exceeds twenty-five thousand dollars ($25,000) of the Fair Market Value of such Shares (determined at the time such Options are granted) for each calendar year in which such Options are outstanding at any time.
+5. (d) 5% Owner Limit.  Notwithstanding any provisions of the Plan to the contrary,  no  Participant  shall  be  granted  an  Option  to  purchase Shares under this Plan if such Participant (or any other person whose stock  would  be  attributed  to  such  Participant  pursuant  to  Section 424(d) of the Code), immediately after such Option is granted, would own or hold options to purchase Shares possessing five percent (5%) or more of the total combined voting power or value of all classes of stock of the Company or any of its Subsidiaries.
+6. (e) Other Limitation.  The Administrator may determine, as to any Offering Period, that the offering will not be extended to 'highly compensated employees' within the meaning of Section 414(q) of the Code.
+- (6) Participation in the Plan.  An Eligible Employee may become a Participant for an Offering Period by completing the prescribed Enrollment  Agreement  and submitting  such  Enrollment  Agreement  to  the  Company  (or  the  Company's designee),  in  the  format  and  pursuant  to  the  process  as  prescribed  by  the Administrator,  during  the  Enrollment  Period  prior  to  the  commencement  of  the Offering Period to which it relates.  Such Enrollment Agreement shall contain the payroll  deduction  authorization  described  in  Section  (8).    A  payroll  deduction authorization will be effective for the first Offering Period following the submission
+
+of the Enrollment Agreement and all subsequent Offering Periods as provided by Section (7) until (i) it is terminated in accordance with Sections (9) or (14), (ii) it is modified by filing another Enrollment Agreement in accordance with this Section (6),  (iii)  an  election  is  made  to  decrease  payroll  deductions  in  accordance  with Section (8), (iv) the Participant's Termination of Service, or (v) the Participant is otherwise ineligible to participate in the Plan.
+
+- (7) Automatic  Re-Enrollment.    Following  the  end  of  each  Offering  Period,  each Participant  shall  be  automatically  re-enrolled  in  the  next  Offering  Period  at  the applicable rate of payroll deductions in effect on the last Trading Day of the prior Offering  Period  or  otherwise  as  provided  under  Section  (8),  unless  (i)  the Participant has elected to withdraw from the Plan in accordance with Section (9), (ii)  the  Participant's  Termination  of  Service,  or  (iii)  the  Participant  is  otherwise ineligible to participate in the next Offering Period. Notwithstanding  the foregoing,  the  Administrator  may  require  current  Participants  to  complete  and submit a new Enrollment Agreement at any time it deems necessary or desirable to facilitate Plan administration or for any other reason.
+- (8) Payroll  Deductions.    Each  Participant's  Enrollment  Agreement  shall  contain  a payroll deduction authorization pursuant to which he or she shall elect to have a designated  whole  percentage  of  Eligible  Compensation  between  one  percent (1%) and ten percent (10%) deducted on each payday during the Offering Period and credited to the Participant's Account for the purchase of Shares pursuant to the offering.  Payroll deductions shall commence on the Offering Date of the first Offering  Period  to  which  the  Enrollment  Agreement  relates  (or  as  soon  as administratively  practicable  thereafter)  and  shall  continue  through  subsequent Offering Periods pursuant to Section (7).  Participants shall not be permitted to make any separate cash payments into their Account for the purchase of Shares pursuant  to  an  offering.    Notwithstanding  the  foregoing,  if  local  law  prohibits payroll  deductions,  a  Participant  may  elect  to  participate  in  an  Offering  Period through contributions to his or her Account in a format and pursuant to a process acceptable  to  the  Administrator.    In  such  event,  any  such  Participant  shall  be deemed  to  participate  in a separate  offering  under  the  Plan,  unless  the Administrator otherwise expressly provides.
+
+If  in  any payroll period a Participant has no pay or his or her pay is insufficient (after other authorized deductions) to permit deduction of the full amount of his or her  payroll  deduction  election,  then  (i)  the  payroll  deduction  election  for  such payroll period shall be reduced to the amount of pay remaining, if any, after all other authorized deductions, and (ii) the percentage or dollar amount of Eligible Compensation  shall  be  deemed  to  have  been  reduced  by  the  amount  of  the reduction in the payroll deduction election for such payroll period.  Deductions of the full amount originally elected by the Participant will recommence as soon as his or her pay is sufficient to permit such payroll deductions; provided, however, no additional amounts will be deducted to satisfy the Outstanding Election.
+
+A  Participant  may  elect  to  decrease,  but  not  increase,  the  rate  of  his  or  her payroll  deductions  during  an  Offering  Period  by  submitting  the  prescribed Enrollment Agreement to the Company (or the Company's designee) at any time
+
+prior to the first day of the last calendar month of such Offering Period.  Any such payroll deduction change will be effective as soon as administratively practicable thereafter and will remain in effect for successive Offering Periods as provided in Section (7) unless (i) the Participant submits a new Enrollment Agreement for a later  Offering  Period,  (ii)  the  Participant  elects  to  decrease  his  or  her  payroll deductions, (iii) the Participants elects to withdraw from the Plan in accordance with  Section  (9),  (iv)  the  Participant  is  withdrawn  from  the  Plan  in  accordance with Section (14), or (v) the Participant is otherwise ineligible to participate in the Plan.  A Participant may only increase his or her rate of payroll deductions to be effective for the next Offering Period by completing and filing with the Company a new Enrollment Agreement authorizing the payroll deductions.
+
+Notwithstanding  the  foregoing,  the  Company  may  adjust  a  Participant's  payroll deductions  at  any  time  during  an  Offering  Period  to  the  extent  necessary  to comply  with  Section  423(b)(8)  of  the  Code  and  the  limitations  of  Section  (5). Payroll  deductions  will  recommence  and  be  made  in  accordance  with  the Outstanding Election in place prior to such Company adjustment starting with the first Offering Period that begins in the next calendar year (or such other time as is determined by the Administrator) unless (i) the Participant withdraws in accordance  with  Section  (9),  (ii)  the  Participant  is  withdrawn  from  the  Plan  in accordance  with  Section  (14),  or  (iii)  the  Participant  is  otherwise  ineligible  to participate in the Plan.
+
+- (9) Withdrawal from Offering Period After Offering Date.  An Eligible Employee may withdraw from any Offering Period after the applicable Offering Date, in whole but not in part, at any time prior to the date specified by the Administrator or, if no such date is specified by the Administrator, the last Trading Day of such Offering Period,  by  submitting  the  prescribed  withdrawal  notice  to  the  Company  (or  the Company's designee), in the format and pursuant to the process as prescribed by  the  Administrator.    If  a  Participant  withdraws  from  an  Offering  Period,  the Participant's Option for such Offering Period will automatically be terminated, and the Company will refund in cash the Participant's entire Account balance for such Offering Period as soon as practicable thereafter.  A Participant's withdrawal from a  particular  Offering  Period  shall  be  irrevocable.    If  a  Participant  wishes  to participate in a subsequent Offering Period, he or she must re-enroll in the Plan by timely submitting a new Enrollment Agreement in accordance with Section (6).
+- (10) Purchase  of  Stock.    On  the  last  Trading  Day  of  each  Offering  Period,  the Administrator shall cause the amount credited to each Participant's Account to be applied  to  purchase  as  many  Shares  (or,  as  applicable,  fractions  of  a  Share) pursuant to the Participant's Option as possible at the Purchase Price Per Share, subject  to  limitations  of  Sections  (3)  and  (5).    In  no  event  may  Shares  be purchased pursuant to an Option more than twenty-seven (27) months after the Offering Date of such Option.  The amount applied to purchase Shares pursuant to  the  Option  shall  be  deducted  from  the  Participant's  Account.    Any  amounts remaining  credited  to  the  Participant's  Account  on  the  last  Trading  Day  of  the Offering Period shall be retained in the Participant's Account and rolled forward to the next Offering Period.
+
+- (11) Interest  on  Payments.    No  interest  shall  be  paid  on  sums  withheld  from  a Participant's  pay  for  the  purchase  of  Shares  under  this  Plan  unless  otherwise determined necessary by the Administrator.
+- (12) Rights as Shareholder.  A Participant will not be a shareholder or have any rights as  a  shareholder  with  respect  to  Shares  subject  to  the  Participant's  Options issued under the Plan until the Shares are purchased pursuant to the Options and such Shares are transferred into the Participant's name on the Company's books and records.
+- (13) Options Not Transferable.  A Participant's Options under this Plan may not be sold,  pledged,  assigned,  or  transferred  in  any  manner.    If  a  Participant  sells, pledges, assigns, or transfers his or her Options in violation of this Section (13), such Options shall immediately terminate, and the Participant shall immediately receive a refund of the amount then credited to the Participant's Account.
+- (14) Deemed Cancellations.
+5. (a) Termination of Service.  In the event of a Participant's Termination of Service,  (i)  any  outstanding  Option  held  by  the  Participant  shall immediately terminate; (ii) the Participant shall be withdrawn from the Plan; and (iii) the Participant shall receive a refund of the amount then credited to the Participant's Account.
+6. (b) Death of a Participant.  If a Participant dies, (i) any outstanding Option held  by  the  Participant  shall  immediately  terminate,  and  (ii)  the Participant shall be withdrawn from the Plan. As soon as administratively  practicable  after  the  Participant's  death,  the  amount then  credited  to  the  Participant's  Account  shall  be  remitted  to  the executor, administrator, or other legal representative of the Participant's  estate  or,  if  the  Administrator  permits  a  beneficiary designation,  to  the  beneficiary  or  beneficiaries  designated  by  the Participant if such designation has been filed with the Company or the Company's  designee  before such Participant's death. If such executor, administrator, or other legal representative of the Participant's estate has not been appointed (to the knowledge of the Company) or if the beneficiary or beneficiaries are no longer living at the time of the Participant's death, the Company, in its discretion, may deliver the outstanding Account balance to the spouse or to any one or  more  dependents  or  relatives  of  the  Participant  or  to  such  other person as the Company may designate.
+- (15) Application of Funds.  All funds received by the Company in payment for Shares purchased under this Plan and held by the Company at any time may be used for any valid corporate purpose.
+- (16) No  Employment/Service Rights. Neither the action of the Company  in establishing the Plan, nor any action taken under the Plan by the Board or the Administrator,  nor  any  provision  of  the  Plan  itself,  shall  be  construed  so  as  to
+
+grant  any  person  the  right  to  remain  in  the  employ  of  the  Company  or  any Subsidiary  for  any  period  of  specific  duration,  and  such  person's  employment may be terminated at any time, with or without cause.
+
+- (17) Adjustments.  Subject to Section (18), upon (or, as may be necessary to effect the adjustment, immediately prior to) any reclassification, recapitalization, stock split (including a stock split in the form of a stock dividend) or reverse stock split; any  merger,  combination,  consolidation,  or  other  reorganization;  any  spin-off, split-up, or similar extraordinary dividend distribution in respect of the Common Stock; or any exchange of Common Stock or other securities of the Company or any  similar,  unusual,  or  extraordinary  corporate  transaction  in  respect  of  the Common  Stock,  in  each  case,  then  the  Administrator  shall  equitably  and proportionately adjust (1) the number, amount, and type of Shares of Common Stock  (or  other  securities)  that  thereafter  may  be  made  the  subject  of  Options (including the specific Share limits, maximums, and numbers of Shares set forth elsewhere in the Plan), (2) the number, amount, and type of Shares of Common Stock (or other securities or property) subject to any outstanding Options, (3) the Purchase Price Per Share of any outstanding Options, and/or (4) the securities, cash, or other property deliverable upon exercise or payment of any outstanding Options, in each case to the extent necessary to preserve (but not increase) the level of incentives intended by the Plan and the then-outstanding Options.
+
+It  is  intended  that,  if  possible,  any  adjustments  contemplated  by  the  preceding paragraph  be  made  in  a  manner  that  satisfies  applicable  legal,  tax  (including, without  limitation  and  as  applicable  in  the  circumstances,  Section  424  of  the Code and Section 409A of the Code), and accounting (so as to not trigger any charge to earnings with respect to such adjustment) requirements.
+
+Without limiting the generality of Section (4), any good faith determination by the Administrator  as  to  whether  an  adjustment  is  required  in  the  circumstances pursuant to this Section (17), and the extent and nature of any such adjustment, shall be final, conclusive, and binding on all persons.
+
+- (18) Merger or Liquidation of Company.  In the event the Company or its shareholders enter  into  an  agreement  to  dispose  of  all  or  substantially  all  of  the  assets  or outstanding  capital  stock  of  the  Company  by  means  of  a  sale,  merger,  or reorganization in which the Company will not be the surviving corporation (other than  a  reorganization  effected  primarily  to  change  the  State  in  which  the Company  is  incorporated,  a  merger  or  consolidation  with  a  wholly-owned Subsidiary, or any other transaction in which there is no substantial change in the shareholders  of  the  Company  or  their  relative  stock  holdings,  regardless  of whether the Company is the surviving corporation) or in the event the Company is liquidated, then all outstanding Options under the Plan shall automatically be exercised immediately prior to the consummation  of such sale, merger, reorganization,  or  liquidation  (deemed  the  end  of  the  Offering  Period  in  such case) by causing all amounts credited to each Participant's Account to be applied to purchase as many Shares pursuant to the Participant's Option as possible at the Purchase Price Per Share, subject to the limitations of Sections (3) and (5).
+
+- (19) Acquisitions and Dispositions.  The Administrator may, in its sole and absolute discretion  and  in  accordance  with  principles  under  Section  423  of  the  Code, create special Offering Periods for individuals who become Eligible Employees solely  in  connection  with  the  acquisition  of  another  company  or  business  by merger, reorganization, or purchase of assets, and notwithstanding Section (14), may  provide  for  special  purchase  dates  for  Participants  who  will  cease  to  be Eligible Employees solely in connection with the disposition of all or a portion of any Designated Subsidiary or a portion of the Company, which Offering Periods and  purchase  rights  granted  pursuant  thereto  shall,  notwithstanding  anything stated  herein,  be  subject  to  such  terms  and  conditions  as  the  Administrator considers appropriate in the circumstances.
+- (20) Government Approvals or  Consents.    This  Plan  and  any  offering  and  sales  of Shares or delivery of Shares under this Plan to Eligible Employees hereunder are subject to any governmental or regulatory approvals or consents that may be or become applicable in connection therewith.
+- (21) Plan Amendment, Suspension, and Termination.  The Board may, from time to time, amend, suspend, or terminate the Plan in any manner it deems necessary or  advisable; provided, however, that no such action shall adversely affect any then  outstanding  and  vested  Options  under  the  Plan  unless  such  action  is required  to  comply  with  Applicable  Laws;  and  provided,  further,  that  no  such action  of  the  Board  shall  be  effective  without  the  approval  of  the  Company's shareholders  if  such  approval  is  required  by  Applicable  Laws.    Upon  the termination of the Plan, any balance in a Participant's Account shall be refunded to him or her as soon as practicable thereafter.
+- (22) Governing Law.  The Plan shall be governed by, and construed in accordance with, the laws of the State of California (except its choice-of-law provisions) and applicable U.S. Federal laws.
+
+## APPLE INC. NON-EMPLOYEE DIRECTOR STOCK PLAN
+
+(as amended November 6, 2024)
+
+On  November  13,  2017,  the  Board  adopted  this  Non-Employee  Director  Stock  Plan  (formerly known as the 1997 Director Stock Option Plan and the 1997 Director Stock Plan, and, as renamed, the 'Plan'), subject to approval by the Company's shareholders at the Annual Meeting on February 13, 2018. The Plan was further amended by the Board as set forth herein, effective November 6, 2024.  For the terms and conditions of the Plan applicable to an Award, refer to the version of the Plan in effect as of the date such Award was granted.
+
+1. PURPOSES .  The purposes of the Plan are to retain the services of qualified individuals who are not employees of the Company to serve as members of the Board and to secure for the Company the benefits of the incentives inherent in increased Common Stock ownership by such individuals by granting such individuals Awards in respect of Shares.
+2. ADMINISTRATION .  The Administrator shall be responsible for administering the Plan.  Subject to the provisions of the Plan, the Administrator shall have the full authority, in its sole discretion, to take any actions it deems necessary or advisable for the administration of the Plan, including but not limited to:
+3. (a) determining the Fair Market Value for purposes of any Award;
+4. (b) approving any forms of Award Agreements to be used under the Plan;
+5. (c) amending any outstanding Awards;
+6. (d) construing and interpreting the Plan and any agreements defining the rights and obligations of the Company and Non-Employee Directors under the Plan;
+7. (e) correcting any defect, supplying any omission or reconciling any inconsistency in the Plan or any Award Agreement;
+8. (f) adopting such rules or guidelines as it deems appropriate to implement the Plan;
+9. (g) authorizing  any  person  to  execute  on  behalf  of  the  Company  any  instrument required to effect the grant of an Award previously authorized by the Administrator or the Plan;
+10. (h) adjusting the number of shares subject to any Award, adjusting the price of any or  all  outstanding  Options  or  otherwise  changing  previously  imposed  terms  and  conditions,  in such circumstances as the Administrator may deem appropriate;
+11. (i) determining whether, and the extent to which, adjustments are required pursuant to Section 7 hereof; and
+12. (j) making all other decisions relating to the operation of the Plan.
+
+Each interpretation,  determination,  or  other  action  made  or  taken  by  the  Administrator  pursuant  to  the Plan shall be final and binding on all persons, and the Administrator's determinations under the Plan need not  be  the  same  for  all  persons.    The  Administrator  shall  not  be  liable  for  any  action  or  determination made in good faith, and shall be entitled to indemnification and reimbursement in the manner provided in the Company's Articles of Incorporation and Bylaws as such documents may be amended from time to time.
+
+## 3. SHARES AVAILABLE; LIMITS .
+
+(a) SHARE LIMIT .  Subject to the provisions of Section 7, the maximum number of Shares  that  may  be  issued  under  the  Plan  shall  not  exceed  11,200,000  Shares  (the  'Share Limit').  The stock issuable under the Plan shall be authorized and unissued Shares.
+
+(b) SHARE COUNT .  Shares issued pursuant to Restricted Stock Unit Awards shall count against the Share Limit as two (2) Shares for every one (1) Share issued in connection with the Award.  Shares issued pursuant to the exercise of Options shall count against the Share Limit as one (1) Share for every one (1) Share to which such exercise relates.  If Awards are settled in cash, the shares that would have been delivered had there been no cash settlement shall not be counted against the Share Limit.  Except as provided in the next sentence, if Awards are forfeited or are terminated for any reason before settlement or exercise, then the Shares underlying such Awards shall again become available for Awards under the Plan, provided that any one (1) Share subject to a Restricted Stock Unit Award that is forfeited or terminated shall be credited as two (2) Shares when determining the number of Shares that shall again become available for Awards under  the  Plan.    Shares  that  are  exchanged  by  a  Non-Employee  Director  or  withheld  by  the Company as full or partial payment in connection with any Award under the Plan, as well as any Shares  exchanged  by  a  Non-Employee  Director  or  withheld  by  the  Company  or  one  of  its Subsidiaries to satisfy the tax withholding obligations related to any Award, shall not be available for subsequent Awards under the Plan.
+
+(c) LIMIT ON COMPENSATION. In no event shall the compensation payable by the Company  to  a  Non-Employee  Director  for  services  performed  as  a  Non-Employee  Director, including the grant date value (determined under U.S. generally accepted accounting principles) of Awards, cash retainers, and other compensation, exceed $1,500,000 in the aggregate in any fiscal year.
+
+4. RESTRICTED STOCK UNITS .    Unless  otherwise  determined  by  the  Administrator,  each  NonEmployee Director shall receive grants of Restricted Stock Units under the Plan subject to the following provisions of this Section 4 and the terms of any Award Agreement approved by the Administrator:
+
+(a) ANNUAL GRANTS .  On the date of each Annual Meeting immediately following which a Non-Employee Director is serving on the Board, such Non-Employee Director shall be automatically granted an Award of a number of Restricted Stock Units determined by dividing (i) $310,000 (or such other amount as determined by the Board and subject to the limitations of the Plan) by (ii) the Fair Market Value of the Shares on the date of grant, such number to be rounded to the nearest whole number of Restricted Stock Units (each, an 'Annual RSU Award').
+
+(b) INITIAL  GRANTS .    Each  Non-Employee  Director  who  first  becomes  a  NonEmployee Director at any time other than on the date of an Annual Meeting shall be automatically granted, on the date he or she first becomes a Non-Employee Director, an Award of a number of Restricted  Stock  Units  determined  by  multiplying  (i)  the  quotient  obtained  by  dividing  (A)  the dollar  amount  applied  under  Section  4(a)  with  respect  to  Awards  granted  at  the  immediately preceding Annual Meeting by (B) the Fair Market Value of the Shares on the date of grant, by (ii) a fraction (A) the numerator of which shall be the number of days remaining in the 365-day period following the most recent Annual Meeting, and (B) the denominator of which shall be 365 (but in no event shall such fraction be greater than one (1)), such number to be rounded to the nearest whole number of Restricted Stock Units (each, an 'Initial RSU Award'); provided, however, that a Non-Employee Director shall not be eligible to receive an Initial RSU Award if either (x) he or she was an employee of the Company or any of its Subsidiaries immediately prior to first becoming a Non-Employee Director, or (y) he or she first becomes a Non-Employee Director at any time on or after the February 1 following the last preceding Annual Meeting.
+
+- (c) VESTING;  TERMINATION  OF  SERVICE .    Except  as  otherwise  provided  in  an Award Agreement at the time of grant, each Annual RSU Award shall fully vest on the February 1 that occurs in the fiscal year of the Company following the fiscal year in which the Award was granted.  Each Initial RSU Award shall fully vest on the Vesting Date established for the Annual RSU Awards granted in connection with the last Annual Meeting to occur prior to the grant date of such Initial RSU Award.  If the Non-Employee Director ceases to serve as a member of the Board for  any  reason  other  than  the  Non-Employee  Director's  death,  the  Non-Employee  Director's Restricted Stock Units shall terminate to the extent such Restricted Stock Units have not become vested prior to the first date the Non-Employee Director is no longer a member of the Board, and the Non-Employee Director shall have no rights with respect to, or in respect of, such terminated Restricted Stock Units.  If the Non-Employee Director ceases to serve as a member of the Board due to his or her death, the Non-Employee Director's unvested Restricted Stock Units shall fully vest as of the date of the Non-Employee Director's death.
+- (d) SETTLEMENT OF RESTRICTED STOCK UNITS . On or as soon as administratively practical following the applicable Vesting Date (and in all events not later than two  and  one-half  months  after  the  applicable  Vesting  Date),  the  Company  shall  deliver  to  the Non-Employee Director a number of Shares (as evidenced by an appropriate entry on the books of  the  Company  or  a  duly  authorized  transfer  agent  of  the  Company)  equal  to  the  number  of Restricted  Stock  Units  that  vested  on  the  applicable  Vesting  Date.    Upon  settlement  of  any Restricted  Stock  Units  in  accordance  with  the  foregoing  provision  of  this  Section  4(d)  and settlement of any Dividend Equivalent Right in accordance with Section 4(f), the Non-Employee Director shall have no further rights with respect to any Restricted Stock Units that are so paid.
+- (e) SHAREHOLDER RIGHTS .    A  Non-Employee Director shall have no rights as a shareholder of the Company, no dividend rights (except as expressly set forth in Section 4(f) with respect to Dividend Equivalent Rights) and no voting rights with respect to the Restricted Stock Units or any Shares underlying or issuable in respect of such Restricted Stock Units until such Shares have been issued to the Non-Employee Director pursuant to Section 4(d).  Except for any Dividend  Equivalent  Rights  awarded  pursuant  to  Section  4(f)  or  as  provided  in  Section  7,  no adjustment shall be made in respect of any Restricted Stock Units for dividends or distributions or other rights in respect of any share for which the record date is prior to the date upon which the Non-Employee Director shall become the holder of record of Shares related thereto.
+- (f) DIVIDEND  EQUIVALENT  RIGHTS  DISTRIBUTIONS .    As  of  any  date  that  the Company pays an ordinary cash dividend on its Common Stock, the Company shall credit the Non-Employee Directors with a dollar amount equal to (i) the per Share cash dividend paid by the Company on its Common Stock on such date, multiplied by (ii) the total number of Restricted Stock Units (including as such total number may be adjusted pursuant to Section 7) subject to the Award that are outstanding immediately prior  to  the  record  date  for  that  dividend  (a  'Dividend Equivalent Right').  Any Dividend Equivalent Rights credited pursuant to the foregoing provisions of this Section 4(f) shall be subject to the same vesting, settlement and other terms, conditions and restrictions as the Restricted Stock Units to which they relate; provided, however, that the amount of any vested Dividend Equivalent Rights shall be paid in cash.  No crediting of Dividend Equivalent Rights shall be made pursuant to this Section 4(f) with respect to any Restricted Stock Units which, immediately prior to the record date for that dividend, have either been paid pursuant to Section 4(d) or terminated pursuant to Section 4(c).
+
+## 5. OPTIONS.
+
+(a) NO ADDITIONAL GRANTS .  No Options shall be granted under the Plan unless and until the Board determines that the grant of Options is in the best interests of the Company and its shareholders.
+
+(b) EXERCISE PRICE .  The per share exercise price of each Option shall not be less than 100% of the Fair Market Value of a Share as of the date of grant of the Option determined in accordance with the provisions of the Plan.
+
+(c) VESTING .  Except as otherwise provided in an Award Agreement at the time of grant, Options shall be fully vested and immediately exercisable on their date of grant.
+
+- (d) TERM OF OPTIONS .
+- i. TEN-YEAR TERM .  Each Option shall expire ten (10) years from its date of grant, subject to earlier termination as provided herein.
+- ii. TERMINATION  OF  SERVICE .    Upon  cessation  of  a  Non-Employee  Director's service as a member of the Board for any reason other than death, any of the Non-Employee Director's Options (or any portion thereof) that is not then vested shall terminate, and the Non-Employee Director shall have no rights with respect to,  or  in  respect  of,  such  terminated  Options.    If  the  Non-Employee  Director ceases to serve as a member of the Board due to his or her death, the NonEmployee Director's Options shall fully vest as of the date of the Non-Employee Director's death.
+- iii. EXERCISE  FOLLOWING  TERMINATIONS  OF  SERVICE .    If  a  Non-Employee Director ceases to be a member of the Board for any reason other than death, any Options granted to such Non-Employee Director that are exercisable at the time of the Non-Employee Director's termination may be exercised by such NonEmployee Director at any time within ninety (90) days after the date of such NonEmployee  Director's  termination  of  service,  subject  to  the  earlier  expiration  of such Options as provided for in Section 5(d)(i) above.  At the end of such ninetyday  period,  any  unexercised  portion  of  the  Option  shall  expire.    If  a  NonEmployee Director ceases to be a member of the Board by reason of his or her death, all of the Options granted to the Non-Employee Director may be exercised by his or her Beneficiary at any time within three (3) years after the date of the Non-Employee Director's death, subject to the earlier expiration of such Options as provided for in Section 5(d)(i) above.  At the end of such three-year period, any unexercised portion of the Option shall expire.
+- (e) TIME AND MANNER OF EXERCISE OF OPTIONS .
+- i. NOTICE  OF  EXERCISE .    Subject  to  the  other  terms  and  conditions  hereof,  a Non-Employee Director may exercise any Option, to the extent such Option is vested, by giving written notice of exercise to the Company; provided, however, that in no event shall an Option be exercisable for a fractional share.  The date of exercise of an Option shall be the later of (A) the date on which the Company receives  such  written  notice  and  (B)  the  date  on  which  the  Non-Employee Director pays the applicable consideration pursuant to Section 5(e)(ii).
+- ii. METHOD OF EXERCISE .    The  consideration  to  be  paid  for  the  Shares  to  be issued upon exercise of an Option may consist of (A) cash, (B) check, (C) other Shares  that  have  a  Fair  Market  Value  on  the  date  of  surrender  equal  to  the aggregate exercise price of the Shares as to which the Option shall be exercised, (D)  delivery  of  a  properly  executed  exercise  notice  together  with  irrevocable instructions to a broker to sell Shares and promptly deliver to the Company the amount of proceeds required to pay the exercise price, or (E) any combination of the  foregoing  methods  of  payment.    Without  limiting  the  generality  of  the
+
+foregoing, any vested and exercisable Options may also be Net Exercised, to the extent permitted by the Administrator.
+
+- iii. SHAREHOLDER RIGHTS .    A  Non-Employee Director shall have no rights as a shareholder with respect to any Shares issuable upon exercise of an Option until such Shares shall have been issued to the Non-Employee Director pursuant to Section 5(e), and, except as provided in Section 7, no adjustment shall be made to an Option or Share issued upon  the exercise thereof for dividends, distributions or other rights in respect of any Share for which the record date is prior to the date upon which the Non-Employee Director shall become the holder of record thereof.
+2. (f) ISSUANCE  OF  SHARES .    Subject  to  the  foregoing  conditions,  as  soon  as  is reasonably practicable after its receipt of a proper notice of exercise and, if applicable, payment of the exercise price of the Option for the number of Shares with respect to which the Option is exercised,  the  Company  shall  deliver  to  the  Non-Employee  Director  (or  following  the  NonEmployee Director's death, the Beneficiary entitled to exercise the Option), at the principal office of the Company or at such other location as may be acceptable to the Company and the NonEmployee  Director  (or  such  Beneficiary),  the  appropriate  number  of  Shares  to  be  issued  in connection with such exercise.  Delivery of such Shares shall be evidenced by an appropriate entry on the books of the Company or a duly authorized transfer agent of the Company, or in such  other  manner  that  the  Administrator  shall  specify  from  time  to  time.    Shares  sold  in connection  with  a  'cashless  exercise'  shall  be  delivered  to  the  broker  referred  to  therein  in accordance with procedures established by the Company from time to time.
+
+6. RESTRICTIONS  ON  TRANSFER .    An  Award  may  not  be  transferred,  pledged,  assigned,  or otherwise disposed of, except by will or by the laws of descent and distribution; provided, however, that, with the approval of the Administrator, an Award may be transferred to a Non-Employee Director's family members or to one or more trusts established in whole or in part for the benefit of one or more of such family members.  An Option shall be exercisable, during the Non-Employee Director's lifetime, only by the Non-Employee  Director  or  by  the  individual  or  entity  to  whom  the  Option  has  been  transferred  in accordance  with  the  previous  sentence.    No  assignment  or  transfer  of  an  Award,  or  of  the  rights represented thereby, whether voluntary or involuntary, by operation of law or otherwise, except by will or the laws of descent and distribution, shall vest in the assignee or transferee any interest or right in the Award, but immediately upon any attempt to assign or transfer the Award the same shall terminate and be of no force or effect.
+
+## 7. ADJUSTMENTS .
+
+(a) Upon (or, as may be necessary to effect the adjustment, immediately prior to) any  reclassification,  recapitalization,  stock  split  (including  a  stock  split  in  the  form  of  a  stock dividend) or reverse stock split; any merger, combination, consolidation or other reorganization; any  spin-off,  split-up,  split-off  or  extraordinary  dividend  distribution  in  respect  of  the  Common Stock;  or  any  exchange  of  Common Stock or other securities of the Company, or any similar, unusual or extraordinary corporate transaction in respect of the Common Stock, the Administrator shall equitably and proportionately adjust (1) the number and type of Shares (or other securities) that  thereafter  may  be  made the subject of Awards (including the Share Limit, maximums and number of Shares set forth elsewhere in the Plan), (2) the number, amount and type of Shares (or other  securities  or  property)  subject  to  any  outstanding  Awards,  (3)  the  exercise  price  of  any outstanding Options, and/or (4) the securities, cash or other property deliverable upon exercise or settlement of any outstanding Awards, in each case to the extent necessary to preserve (but not increase)  the  level  of  incentives  intended  by  the  Plan  and  the  then-outstanding  Awards.    Any good  faith  determination  by  the  Administrator  as  to  whether  an  adjustment  is  required  in  the
+
+circumstances pursuant to this Section 7(a), and the extent and nature of any such adjustment, shall be conclusive and binding on all persons.
+
+- (b) It  is  intended  that,  unless  otherwise  determined  by  the  Administrator,  any adjustments contemplated by Section 7(a) be made in a manner that satisfies applicable legal, tax (including, without limitation and as applicable in the circumstances, Code Section 409A) and accounting  (so  as  to  not trigger  any  charge  to  earnings  with  respect  to  such  adjustment) requirements.
+- (c) Any adjustment  under  this  Section  7  need  not  be  the  same  for  all  persons  or Awards.
+
+8. CHANGE OF CONTROL .  Upon the occurrence of any Change of Control, any then outstanding Award automatically shall become vested or exercisable, as the case may be, with respect to a prorated portion of the number of Shares subject to such Award, determined as follows:
+
+- (a) CLIFF-VESTING AWARDS. If  the  Award has one scheduled Vesting Date, the portion of the Award with respect to the following number of Shares shall vest upon the Change of Control:  (i) the number of Shares subject to such Award, multiplied by (ii) a fraction (A) the numerator of which is the number of days elapsed from and including the date the Award was granted to the date of the Change of Control, and (B) the denominator is the number of days from and including the date of grant to and including the scheduled Vesting Date.
+- (b) INSTALLMENT-VESTING  AWARDS. If  the  Award  has  multiple  scheduled Vesting Dates, the portion of the Award with respect to the following number of Shares shall vest upon the Change of Control:  (i) the number of Shares subject to the portion of such Award that is scheduled to vest on the first Vesting Date that is scheduled to occur following the Change of Control,  multiplied  by  (ii)  a  fraction  (A)  the  numerator  of  which  is  the  number  of  days  elapsed following and excluding the most recent Vesting Date prior to the Change of Control, and (B) the denominator is the number of days from and excluding such most recent Vesting Date to and including the first Vesting Date that is scheduled to occur following the Change of Control.
+
+## 9. DESIGNATION OF BENEFICIARY.
+
+- (a) BENEFICIARY DESIGNATIONS .  Each Non-Employee Director may designate a Beneficiary  to  exercise  an  Option  or  receive  settlement  of  an  Award  upon  the  Non-Employee Director's death by executing a Beneficiary Designation Form  and  delivering it to the Administrator.
+- (b) CHANGE  OF  BENEFICIARY  DESIGNATION .    A  Non-Employee  Director  may change an earlier Beneficiary designation by executing a later Beneficiary Designation Form and delivering it to the Administrator.  The execution of a Beneficiary Designation Form and its receipt by the Administrator shall revoke and rescind any prior Beneficiary Designation Form.
+
+## 10. TERMINATION AND AMENDMENT OF THE PLAN .
+
+- (a) TERMINATION .  Unless earlier terminated by the Board, the Plan shall terminate on November 12, 2027.  Following such date, no further grants of Awards shall be made pursuant to the Plan.
+- (b) GENERAL  POWER  OF  BOARD . Notwithstanding  anything  herein  to  the contrary, the Board may at any time and from time to time terminate, modify, suspend or amend the Plan in whole or in part (including amend the Plan at any time and from time to time, without
+
+shareholder approval, to prospectively change the value and relative mixture of Restricted Stock Units  and  Options  subject  to  Awards  granted  to  Non-Employee  Directors  on  the  date  of  each Annual Meeting or upon  becoming  a  Non-Employee  Director and the methodology  for determining the number of Shares to be subject to such Awards, each within the Share Limit and the individual limit set forth in Section 3, and the other terms and conditions applicable to such Awards)  or,  subject  to  Sections  10(c)  and  10(d),  amend  the  terms  of  any  outstanding  Award; provided,  however,  that  no  such  termination,  modification,  suspension  or  amendment  shall  be effective without shareholder approval if such approval is required to comply with any applicable law  or  stock  exchange  rule;  and  provided  further  that  the  Board  may  not,  without  shareholder approval, increase the maximum number of Shares issuable under the Plan except as provided in Section 7.  For avoidance of doubt, the Board may, without shareholder approval, provide on a prospective  basis  for  grants  under  the  Plan  to  consist  of  Options  only,  Restricted  Stock  Units only,  or  a  combination  of  Options  and  Restricted  Stock  Units  on  such  terms  and  conditions, subject to the Share Limit and the other express limits of the Plan, as may be established by the Board.
+
+(c) WHEN  NON-EMPLOYEE  DIRECTORS'  CONSENTS  REQUIRED .    The  Board may not alter,  amend, suspend or terminate the Plan, or amend the terms of any outstanding Award, without the consent of any Non-Employee Director to the extent that such action would adversely  affect  his  or  her  rights  with  respect  to  Awards  that  have  previously  been  granted, except to the extent such action is necessary to comply with applicable law or stock exchange listing rules or accounting rules.
+
+(d) NO  REPRICING .    In  no  case  (except  due  to  an  adjustment  contemplated  by Section 7 or any repricing that may be approved by shareholders) shall any action be taken with respect to the Plan or any Option hereunder that would constitute a repricing (by amendment, substitution,  cancellation  and  regrant,  exchange  or  other  means,  including  any  action  that  is treated  as  a  repricing  under  U.S.  generally  accepted  accounting  principles)  of  the  per  Share exercise price of any Option.
+
+## 11. MISCELLANEOUS .
+
+(a) NO RIGHT TO NOMINATION .    Nothing  in  the  Plan  shall  be  deemed  to  create any  obligation  on  the  part  of  the  Board  to  nominate  any  of  its  members  for  reelection  by  the Company's  shareholders,  nor  confer  upon  any  Non-Employee  Director  the  right  to  remain  a member of the Board for any period of time, or at any particular rate of compensation.
+
+(b) REGULATORY  REQUIREMENTS .    The  Administrator  may  require  each  NonEmployee Director or any other person purchasing or acquiring Shares pursuant to the Plan to agree with the Company in writing that such Non-Employee Director is acquiring the Shares for investment and not with a view to the distribution thereof or provide such other assurances and representations to the Company as the Administrator may deem necessary or desirable to assure compliance with all applicable legal and accounting requirements.  Shares delivered under the Plan shall be subject to such stock-transfer orders and other restrictions as the Administrator may deem  advisable  under  the  rules,  regulations  and  other  requirements  of  the  Securities  and Exchange Commission or any exchange upon which the Common Stock is then listed, and any applicable  federal  or  state  securities  law.    No  Shares  shall  be  issued  hereunder  unless  the Company  shall  have  determined  that  such  issuance  is  in  compliance  with,  or  pursuant  to  an exemption from, all applicable federal and state securities laws.
+
+(c) EXPENSES .    The costs and expenses of administering the Plan shall be borne by the Company.
+
+(d) APPLICABLE LAW .  Except as to matters of federal law, the Plan and all actions taken thereunder shall be governed by and construed in accordance with the laws of the State of California without giving effect to conflicts of law principles.
+
+(e) SEVERABILITY. If a court of competent jurisdiction holds any provision invalid and unenforceable, the remaining provisions of the Plan shall continue in effect.
+
+(f) SECTION HEADINGS; INTERPRETATION .  Captions and headings are given to the sections and subsections of the Plan solely as a convenience to facilitate reference.  Such headings shall not be deemed in any way material or relevant to the construction or interpretation of the Plan or any provision thereof.
+
+(g) AUTHORITY OF THE COMPANY AND SHAREHOLDERS .  The existence of the Plan shall not affect or restrict in any way the right or power of the Company or the shareholders of the Company to make or authorize (i) any adjustment, recapitalization, reorganization or other change in the Company's capital structure or business of the Company or any Subsidiary, (ii) any merger,  amalgamation,  consolidation  or  change  in  the  ownership  of  the  Company  or  any Subsidiary, (iii) any issue of bonds, debentures, capital, preferred or prior preference stock ahead of or affecting the capital stock (or the rights thereof) of the Company or any Subsidiary, (iv) any dissolution or liquidation of the Company or any Subsidiary, (v) any sale or transfer of all or any part  of  the  assets  or  business  of  the  Company  or  any  Subsidiary,  (vi)  the  payment  at  the discretion of the Board of any type or form of compensation to Non-Employee Directors that may be  made  at  law  and  without  contravention  of  any  requirement  of  the  principal  exchange  upon which the Shares are traded, or (vii) any other corporate act or proceeding by the Company or any  Subsidiary,  whether  of  a  similar  character  or  otherwise.    No  Non-Employee  Director, beneficiary or other person shall have any claim under any Award or Award Agreement against any member of the Board or the Company, or any employees, officers or agents of the Company or any Subsidiary, as a result of any such action.
+
+12. DEFINITIONS .  Capitalized words not otherwise defined in the Plan have the meanings set forth below:
+
+'ADMINISTRATOR' means the Board.  The Board may delegate ministerial, non-discretionary functions to individuals who are officers or employees of the Company or any of its Subsidiaries or to third parties.
+
+'ANNUAL MEETING' means the first annual meeting of the Company's shareholders at which members of the Board are elected following the applicable fiscal year of the Company or the applicable date, as the context may require.  By way of example, the Annual Meeting following the Company's 2016 fiscal year occurred on February 28, 2017.
+
+'AWARD' means an award of Options or Restricted Stock Units under the Plan.
+
+'AWARD AGREEMENT' means any agreement that evidences an Award granted under the Plan. Award  Agreements  shall  consist  of  either  (1)  a  written  award  agreement  in  a  form  approved  by  the Administrator,  or  (2)  an  electronic  notice  of  award  grant  in  a  form  approved  by  the  Administrator  and recorded by the Company (or its designee) in an electronic recordkeeping system used for the purpose of tracking award grants under the Plan generally, as the Administrator may provide and, in each case and if required by the Administrator, executed or otherwise electronically accepted by the recipient of the Award in such form and manner as the Administrator may require.
+
+'BENEFICIARY'  means  an  individual  or  entity  designated  by  a  Non-Employee  Director  on  a Beneficiary  Designation  Form  to  exercise  Options  or  receive  settlement  of  Awards  in  the  event  of  the Non-Employee Director's death; provided, however, that, if no such individual or entity is designated or if
+
+no such designated individual is alive at the time of the Non-Employee Director's death, Beneficiary shall mean the Non-Employee Director's estate.
+
+'BENEFICIARY  DESIGNATION  FORM'  means  a  document,  in  a  form  approved  by  the Administrator  to  be  used  by  Non-Employee  Directors  to  name  their  respective  Beneficiaries.    No Beneficiary  Designation  Form  shall  be  effective  unless  it  is  signed  by  the  Non-Employee  Director  and received by the Administrator prior to the date of death of the Non-Employee Director.
+
+'BOARD' means the Board of Directors of the Company.
+
+'CHANGE OF CONTROL' means the occurrence of any one or more of the following events:
+
+(i) An acquisition by any individual, entity or group (within the meaning of Section 13(d)(3) or 14(d)(2) of the Exchange Act) (an 'Acquirer') of beneficial ownership (within the meaning of Rule 13d-3 promulgated  under  the  Exchange  Act)  of  50%  or  more  of  either  (1)  the  then  outstanding  Shares  (the 'Outstanding Company Common Stock') or (2) the combined voting power of the then outstanding voting securities  of  the  Company  entitled  to  vote  generally  in  the  election  of  directors  (the  'Outstanding Company Voting Securities'); provided,  however,  that  for  purposes  of  this  subsection  (i),  the  following acquisitions shall not constitute a Change of Control:  (1) any acquisition directly from the Company, (2) any  acquisition  by  the  Company,  (3)  any  acquisition  by  any  employee  benefit  plan  (or  related  trust) sponsored or maintained by the Company or any entity controlled by the Company, or (4) any acquisition by any entity pursuant to a transaction that complies with clauses (1), (2) and (3) of subsection (iii) of this definition;
+
+(ii) A change in the composition of the Board such that the individuals who, as of February 13,  2018,  constitute  the  Board  (the  'Incumbent  Board')  cease  for  any  reason  to  constitute  at  least  a majority  of  the  Board;  provided,  however,  that,  for  purposes  of  this  subsection  (ii),  any  individual  who becomes a member of the Board subsequent to February 13, 2018 whose election, or nomination for election  by  the  Company's  shareholders,  was  approved  by  a  vote  of  at  least  a  majority  of  those individuals  who  are  members  of  the  Board  and  who  were  also  members  of  the  Incumbent  Board  (or deemed  to  be  such  pursuant  to  this  proviso)  shall  be  considered  members  of  the  Incumbent  Board; provided further, that any such individual whose initial assumption of office occurs as a result of either an actual or threatened election contest with respect to the election or removal of directors or other actual or threatened solicitation of proxies or consents by or on behalf of an Acquirer other than the Board shall not be considered a member of the Incumbent Board;
+
+(iii) The consummation of a reorganization, merger, statutory share exchange or consolidation  or  similar  transaction  involving  the  Company  or  any  of  its  Subsidiaries  or  sale  or  other disposition of all or substantially all of the assets of the Company, or the acquisition of assets or securities of  another entity by the Company or any of its Subsidiaries (a 'Business Combination'), in each case, unless, following such Business Combination (1) all or substantially all of the individuals and entities who were the beneficial owners, respectively, of the Outstanding Company Common Stock and Outstanding Company Voting Securities immediately prior to such Business Combination beneficially own, directly or indirectly,  more  than  50%  of,  respectively,  the  then  outstanding  shares  of  common  stock  (or,  for  a noncorporate entity, equivalent securities) and the combined voting power of the then outstanding voting securities entitled to vote generally in the election of directors (or, for a noncorporate entity, equivalent securities),  as  the  case  may  be,  of  the  entity  resulting  from  such  Business  Combination  (including  an entity that, as a result of such transaction, owns the Company or all or substantially all of the Company's assets either directly or through one or more subsidiaries) in substantially the same proportions as their ownership, immediately prior to such Business Combination of the Outstanding Company Common Stock and Outstanding Company Voting Securities, as the case may be, (2) no Acquirer (excluding any entity resulting from such Business Combination or any employee benefit plan (or related trust) of the Company or such entity resulting from such Business Combination) beneficially owns, directly or indirectly, 50% or more  of,  respectively,  the  then  outstanding  shares  of  common  stock  (or,  for  a  noncorporate  entity,
+
+equivalent  securities)  of  the  entity  resulting  from  such  Business  Combination  or  the  combined  voting power of the then outstanding voting securities of such entity except to the extent that such ownership existed prior  to  the  Business  Combination,  and  (3)  at  least  a  majority  of  the  members  of  the  board  of directors (or, for a noncorporate entity, equivalent body or committee) of the entity resulting from such Business Combination were members of the Incumbent Board at the time of the execution of the initial agreement, or of the action of the Board, providing for such Business Combination; or
+
+(iv) The approval by the shareholders of the Company of a complete liquidation or dissolution of the Company.
+
+'CODE' means the Internal Revenue Code of 1986, as amended, and the applicable rules and regulations promulgated thereunder.
+
+'COMMON STOCK' means the common stock of the Company or any other class of securities of the Company or any successor in interest thereto to which any award under the Plan relates by reason of an adjustment under Section 7.
+
+'COMPANY' means Apple Inc., a California corporation, or any successor to substantially all of its business.
+
+'EXCHANGE ACT' means the Securities Exchange Act of 1934, as amended, and the applicable rules and regulations promulgated thereunder.
+
+'FAIR MARKET VALUE' means, unless otherwise determined or provided by the Administrator in the  circumstances,  the  last  price  (in  regular  trading)  for  a  Share  on  the  Nasdaq  Stock  Market  (the 'Market') for the date in question or, if no sales of Shares were reported on the Market on that date, the last  price  (in  regular  trading)  for  a  Share  on  the  Market  for  the  next  preceding  day  on  which  sales  of Shares were reported on the Market.  The Administrator may, however, provide with respect to one or more Awards that the Fair Market Value shall equal the last price for a Share on the Market on the last trading day preceding the date in question or the average of the high and low trading prices of a Share on the Market for the date in question or the most recent trading day.  If Shares are no longer listed or are no longer actively traded on the Market as of the applicable date, the Fair Market Value of a Share shall be the value as reasonably determined by the Administrator for purposes of the Award in the circumstances. The Administrator also may adopt a different methodology for determining Fair Market Value with respect to  one  or  more  Awards  if  a  different  methodology  is  necessary  or  advisable  to  secure  any  intended favorable tax, legal or other treatment for the particular Awards (for example, and without limitation, the Administrator may provide that Fair Market Value for purposes of one or more Awards shall be based on an average of closing prices (or the average of high and low daily trading prices) for a specified period preceding the relevant date).
+
+'NET EXERCISED' shall mean the exercise of an Option or any portion thereof by the delivery to the person exercising such Option of the greatest number of whole Shares having a Fair Market Value on the  date  of  exercise  not  in  excess  of  the  difference  between  the  aggregate  Fair  Market  Value  of  the Shares  subject  to  the  Option  (or  the  portion  of  such  Option  then  being  exercised)  and  the  aggregate exercise price for all such Shares under the Option (or the portion thereof then being exercised), with any fractional share that would result from such equation to be payable in cash.
+
+'NON-EMPLOYEE DIRECTOR' means a member of the Board who is not an employee of the Company or any of its Subsidiaries.
+
+'OPTION' means an option to purchase Shares awarded to a Non-Employee Director under the Plan.
+
+'RESTRICTED STOCK UNIT' means a bookkeeping entry representing the equivalent of one Share, subject to the terms and conditions hereof, and represents an unfunded and unsecured obligation of the Company.
+
+'SHARE' means one share of Common Stock.
+
+'SUBSIDIARY'  means  any  corporation  or  other  entity  a  majority  of  whose  outstanding  voting stock or voting power is beneficially owned directly or indirectly by the Company.  An entity that attains the  status  of  a  Subsidiary  on  a  date  after  the  adoption  of  the  Plan  shall  be  considered  a  Subsidiary commencing as of such date.
+
+'VESTING DATE' means, with respect to a particular Award, the date on which the Award vests in whole or in part.
+
+'VOTING SECURITIES' means, with respect to any corporation, securities of such corporation that are entitled to vote generally in the election of directors of such corporation.
+
+I, Timothy D. Cook, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Apple Inc.;
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary  to  make  the  statements  made,  in  light  of  the  circumstances  under  which  such  statements  were  made,  not misleading with respect to the period covered by this report;
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report;
+4. The Registrant's  other  certifying  officer(s)  and  I  are  responsible  for  establishing  and  maintaining  disclosure  controls  and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have:
+5. (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed  under  our  supervision,  to  ensure  that  material  information  relating  to  the  Registrant,  including  its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+6. (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to  be  designed  under  our  supervision,  to  provide  reasonable  assurance  regarding  the  reliability  of  financial reporting  and  the  preparation  of  financial  statements  for  external  purposes  in  accordance  with  generally accepted accounting principles;
+7. (c) Evaluated the effectiveness of the Registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+8. (d) Disclosed in this report any change in the Registrant's internal control over financial reporting that occurred during the Registrant's most recent fiscal quarter (the Registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant's internal control over financial reporting; and
+5. The Registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant's auditors and the audit committee of the Registrant's board of directors (or persons performing the equivalent functions):
+10. (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant's ability to record, process, summarize and report financial information; and
+11. (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant's internal control over financial reporting.
+
+Date: January 31, 2025
+
+## CERTIFICATION
+
+By: /s/ Timothy D. Cook
+
+Timothy D. Cook
+
+Chief Executive Officer
+
+## I, Kevan Parekh, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Apple Inc.;
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary  to  make  the  statements  made,  in  light  of  the  circumstances  under  which  such  statements  were  made,  not misleading with respect to the period covered by this report;
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report;
+4. The Registrant's  other  certifying  officer(s)  and  I  are  responsible  for  establishing  and  maintaining  disclosure  controls  and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have:
+5. (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed  under  our  supervision,  to  ensure  that  material  information  relating  to  the  Registrant,  including  its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+6. (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to  be  designed  under  our  supervision,  to  provide  reasonable  assurance  regarding  the  reliability  of  financial reporting  and  the  preparation  of  financial  statements  for  external  purposes  in  accordance  with  generally accepted accounting principles;
+7. (c) Evaluated the effectiveness of the Registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+8. (d) Disclosed in this report any change in the Registrant's internal control over financial reporting that occurred during the Registrant's most recent fiscal quarter (the Registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant's internal control over financial reporting; and
+5. The Registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant's auditors and the audit committee of the Registrant's board of directors (or persons performing the equivalent functions):
+10. (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant's ability to record, process, summarize and report financial information; and
+11. (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant's internal control over financial reporting.
+
+Date: January 31, 2025
+
+## CERTIFICATION
+
+By: /s/ Kevan Parekh Kevan Parekh Senior Vice President, Chief Financial Officer
+
+## CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER PURSUANT TO
+
+## 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Timothy D. Cook, certify, as of the date hereof, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report of Apple Inc. on Form 10-Q for the period ended December 28, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Form 10-Q fairly presents in all material respects the financial condition and results of operations of Apple Inc. at the dates and for the periods indicated.
+
+Date: January 31, 2025
+
+By: /s/ Timothy D. Cook
+
+Timothy D. Cook
+
+Chief Executive Officer
+
+I, Kevan Parekh, certify, as of the date hereof, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report of Apple Inc. on Form 10-Q for the period ended December 28, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Form 10-Q fairly presents in all material respects the financial condition and results of operations of Apple Inc. at the dates and for the periods indicated.
+
+Date: January 31, 2025
+
+By: /s/ Kevan Parekh
+
+Kevan Parekh
+
+Senior Vice President,
+
+Chief Financial Officer
+
+A signed original of this written statement required by Section 906 has been provided to Apple Inc. and will be retained by Apple Inc. and furnished to the Securities and Exchange Commission or its staff upon request.
