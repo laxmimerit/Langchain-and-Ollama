@@ -8,9 +8,9 @@ https://bit.ly/bert_nlp
 <!-- Slide number: 2 -->
 What is Machine Learning Pipeline?
 
-![Google Shape;107;p26](GoogleShape107p26.jpg)
+![](GoogleShape108p26.jpg)
 
-![Google Shape;108;p26](GoogleShape108p26.jpg)
+![](GoogleShape107p26.jpg)
 
 ### Notes:
 Model Deployment: Considerations, Benefits & Best Practices (markovml.com)
@@ -18,7 +18,7 @@ Model Deployment: Considerations, Benefits & Best Practices (markovml.com)
 <!-- Slide number: 3 -->
 Type of ML Deployment
 
-![Google Shape;114;p27](GoogleShape114p27.jpg)
+![](GoogleShape114p27.jpg)
 Batch: In batch deployment, ML models process large volumes of data at scheduled intervals, ideal for tasks like end-of-day reporting or monthly analytics.
 
 Stream: Stream deployment enables ML models to process and analyze data in real-time as it flows in, suitable for applications like fraud detection or live social media analysis.
@@ -34,7 +34,7 @@ Infrastructure and Integration
 Hardware and Software: Setting up the right environment for model deployment.
 Integration: Seamlessly integrating the model with existing systems and applications.
 
-![Google Shape;122;p28](GoogleShape122p28.jpg)
+![](GoogleShape122p28.jpg)
 
 ### Notes:
 
@@ -42,13 +42,12 @@ Integration: Seamlessly integrating the model with existing systems and applicat
 Benefits of Deploying ML Models
 Focus on new models, not maintaining existing models || Prevention of bugs || Creation of records for debugging and reproducing results || Standardization || Allows models to handle real-time data and large user bases.
 
-![Google Shape;129;p29](GoogleShape129p29.jpg)
+![](GoogleShape129p29.jpg)
 
 ### Notes:
 
 <!-- Slide number: 6 -->
 Challenges in ML Deployment
-As per research, only 13% of ML models ever make it to production. This is a huge gap, considering the possibilities that AI model deployment can bring to the organization.
 Data Management: Making sure the model gets the right kind of data.
 Model Scalability and Performance: Ensuring that their model can effectively scale as it keeps adding more complex information.
 Integration with Existing Systems: Fitting the model into current computers and software.
@@ -61,7 +60,8 @@ User Acceptance and Trust: Getting people to trust and accept the model.
 Explainability and Transparency: Being able to explain how the model works.
 Cost Management: Managing how much it costs to use the model.
 
-![Google Shape;137;p30](GoogleShape137p30.jpg)
+![](GoogleShape137p30.jpg)
+As per research, only 13% of ML models ever make it to production. This is a huge gap, considering the possibilities that AI model deployment can bring to the organization.
 
 ### Notes:
 
@@ -70,20 +70,20 @@ Data and Model Management
 Data Pipelines: Building and maintaining data pipelines for continuous data flow.
 Model Versioning: Tracking and managing different versions of models.
 
-![Google Shape;144;p31](GoogleShape144p31.jpg)
+![](GoogleShape144p31.jpg)
 
-![Google Shape;145;p31](GoogleShape145p31.jpg)
+![](GoogleShape147p31.jpg)
 
-![Google Shape;146;p31](GoogleShape146p31.jpg)
+![](GoogleShape145p31.jpg)
 
-![Google Shape;147;p31](GoogleShape147p31.jpg)
+![](GoogleShape146p31.jpg)
 
 ### Notes:
 
 <!-- Slide number: 8 -->
 A/B Testing
 
-![Google Shape;153;p32](GoogleShape153p32.jpg)
+![](GoogleShape153p32.jpg)
 Objective Comparison: A/B testing allows for an objective comparison of two model versions to determine which performs better based on specific metrics.
 
 Real-World Application: It is widely used to optimize user experiences, such as testing different recommendation systems or ad strategies to enhance engagement or conversion rates.
@@ -102,6 +102,6 @@ Bias Detection: Identifying and mitigating bias in ML models is crucial to preve
 
 Continuous Monitoring: Regular monitoring and updating of deployed models are essential to maintain security, compliance, and fairness. This involves real-time performance tracking, automated alerts for anomalies, and periodic model retraining.
 
-![Google Shape;161;p33](GoogleShape161p33.jpg)
+![](GoogleShape161p33.jpg)
 
 ### Notes:
