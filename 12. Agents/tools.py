@@ -1,7 +1,3 @@
-"""
-Simplified LangChain Tools Collection
-Only tools that are actually used in agents.py, in the correct order.
-"""
 from dotenv import load_dotenv
 load_dotenv()  # Load environment variables from .env file
 
