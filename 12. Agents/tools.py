@@ -5,23 +5,18 @@ Only tools that are actually used in agents.py, in the correct order.
 from dotenv import load_dotenv
 load_dotenv()  # Load environment variables from .env file
 
-import json
-import re
-import tempfile
-from pathlib import Path
-
 from langchain_core.tools import tool
 
 # DuckDuckGo search integration
 from ddgs import DDGS
 
 @tool
-def web_search(query: str, num_results: int = 5) -> str:
+def web_search(query: str, num_results: int = 10) -> str:
     """Search the web using DuckDuckGo.
     
     Args:
         query: Search query string
-        num_results: Number of results to return (default: 5)
+        num_results: Number of results to return (default: 10)
     
     Returns:
         Formatted search results with titles, descriptions, and URLs
@@ -49,38 +44,4 @@ def web_search(query: str, num_results: int = 5) -> str:
     except Exception as e:
         return f"Search error: {str(e)}"
 
-
-
-@tool
-def calculate(expression: str) -> str:
-    """Calculate mathematical expressions.
-
-    Supports basic math: +, -, *, /, ** (power), sqrt(), abs()
-
-    Args:
-        expression: Math expression like "2+2" or "sqrt(16)"
-
-    Returns:
-        Result as a string
-    """
-    try:
-        import math
-
-        # Allow only safe math operations
-        safe_functions = {
-            'sqrt': math.sqrt,
-            'abs': abs,
-            'round': round,
-            'pow': pow
-        }
-
-        # Calculate the result safely
-        result = eval(expression, {"__builtins__": {}}, safe_functions)
-
-        return f"{expression} = {result}"
-
-    except ZeroDivisionError:
-        return "Error: Cannot divide by zero"
-    except Exception as e:
-        return f"Error: {str(e)}"
 
