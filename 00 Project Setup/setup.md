@@ -1,6 +1,8 @@
 # ML Environment Setup Guide
 Setup for LangChain, LangGraph & Ollama with GPU support (Windows/Linux/Mac)
 
+**Prerequisites:** Install Anaconda/Miniconda from https://www.anaconda.com/docs/getting-started/anaconda/install#basic-install-instructions
+
 ---
 
 ## 1. Check Conda
@@ -90,6 +92,22 @@ exit()
 
 ## Troubleshooting
 
+**Conda not recognized:**
+- **Windows:** Add Conda to PATH
+  1. Find Anaconda/Miniconda installation path (usually `C:\Users\YourName\anaconda3` or `C:\ProgramData\anaconda3`)
+  2. Add these paths to System Environment Variables:
+     - `C:\Users\YourName\anaconda3`
+     - `C:\Users\YourName\anaconda3\Scripts`
+     - `C:\Users\YourName\anaconda3\Library\bin`
+  3. Restart terminal/PowerShell
+  4. Or use Anaconda Prompt instead
+- **Linux/Mac:** Initialize conda
+  ```bash
+  source ~/anaconda3/bin/activate  # or ~/miniconda3/bin/activate
+  conda init bash  # or conda init zsh
+  ```
+  Then restart terminal
+
 **GPU not detected:**
 - Check drivers: `nvidia-smi`
 - Reinstall PyTorch with correct CUDA version
@@ -112,6 +130,5 @@ python -m ipykernel install --user --name ml
 conda env list              # List environments
 conda activate ml           # Activate
 conda deactivate           # Deactivate
-conda env remove -n ml     # Remove environment
 pip list                   # List packages
 ```
