@@ -12,6 +12,8 @@
             margin: 0;
             line-height: 1.6;
             color: #e0e0e0;
+            overflow-x: hidden;
+            max-width: 100%;
         }
         h2 {
             color: #ffffff;
@@ -22,12 +24,14 @@
         }
         table {
             width: 100%;
+            max-width: 100%;
             border-collapse: collapse;
             margin-top: 20px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.5);
             background: #2d2d2d;
             border-radius: 8px;
             overflow: hidden;
+            table-layout: fixed;
         }
         th {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -42,6 +46,8 @@
             border-bottom: 1px solid #404040;
             vertical-align: top;
             color: #e0e0e0;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
         tr:hover {
             background-color: #363636;
