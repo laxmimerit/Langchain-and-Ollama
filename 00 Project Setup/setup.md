@@ -13,7 +13,7 @@ conda env list
 
 ## 2. Create ML Environment
 ```bash
-conda create -n ml python=3.12.4 -y
+conda create -n ml python=3.12 -y
 ```
 
 ## 3. Disable Base Auto-Activation
@@ -75,7 +75,6 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
 
 ## 9. Verify GPU
 ```python
-python
 import torch
 torch.cuda.is_available()  # Should return True
 torch.cuda.get_device_name(0)  # Shows GPU name
