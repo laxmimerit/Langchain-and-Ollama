@@ -10,7 +10,7 @@ from langchain_core.prompts import (SystemMessagePromptTemplate,
 from langchain_core.output_parsers import StrOutputParser
 
 base_url = "http://localhost:11434"
-model = 'llama3.2:3b'
+model = 'qwen3'
 
 llm = ChatOllama(base_url=base_url, model=model)
 

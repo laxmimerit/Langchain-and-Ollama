@@ -1,0 +1,60 @@
+{
+    "Contact Information": {
+        "Name": "Ross Thiele",
+        "Phone Number": "(770) 286-6771 or (770) 315-8721"
+    },
+    "Education": {
+        "Institution Name": "Southern Polytechnic State University",
+        "Degree": "Bachelor of Mechanical Engineering Technology",
+        "Field of Study": "",
+        "Graduation Dates": "December 2017"
+    },
+    "Experience": [
+        {
+            "Job Title": "Photographer and Warehouse Assistant",
+            "Company Name": "Pure Red Creative",
+            "Location": "Tucker GA",
+            "Dates of Employment": "Summer 2013 - Present",
+            "Responsibilities/Projects": [
+                "Organized merchandise from numerous clients preparing them to be shot in photo studio",
+                "Unloaded trucks and placed boxes in storage",
+                "Shipped merchandise using shipping companies such as FedEx and UPS",
+                "Built and put together sets for photo shoots",
+                "Responsible for correct lighting during shootings"
+            ]
+        },
+        {
+            "Job Title": "Loader and Greenhouse Worker",
+            "Company Name": "Pike Nursery",
+            "Location": "Johns Creek, GA",
+            "Dates of Employment": "Spring 2013",
+            "Responsibilities/Projects": [
+                "Loaded vehicles with products",
+                "Organized greenhouse daily as well as taking care of all the vegetation"
+            ]
+        },
+        {
+            "Job Title": "Assistant Manager",
+            "Company Name": "Menchies Frozen Yogurt",
+            "Location": "Johns Creek, GA",
+            "Dates of Employment": "Summer 1988 - Summer 1989",
+            "Responsibilities/Projects": [
+                "Prepared frozen yogurt machines for daily operation",
+                "Prepared fresh toppings on a daily basis (cut fruit, other toppings, etc.)"
+            ]
+        }
+    ],
+    "Skills": {
+        "Technologies/Tools": [
+            "Operating Systems: Windows, Mac OSX"
+        ]
+    },
+    "Community Service": {
+        "Service Hours": "Hundreds of hours logged for community service through the Boy Scouts of America"
+    },
+    "Extra-Curricular Activities": {
+        "Activities": [
+            "Eagle Scout, Boy Scouts of America, 2011"
+        ]
+    }
+}

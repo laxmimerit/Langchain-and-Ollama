@@ -1,0 +1,85 @@
+{
+    "Contact Information": {
+        "Name": "Kumar Pallav",
+        "Email": "me@kumarpallav.com",
+        "Phone Number": "+1-206-910-0006",
+        "Website/Portfolio": "http://kumarpallav.com"
+    },
+    "Education": {
+        "Institution Name": "Indian Institute of Technology, Bombay",
+        "Degree": "Bachelor of Computer Science and Engineering (with Hons.)",
+        "Field of Study": "Computer Science and Engineering",
+        "Graduation Dates": "Jun 2010 - May 2014"
+    },
+    "Experience": [
+        {
+            "Job Title": "Software Engineer \u00b7 OneNote",
+            "Company Name": "Microsoft",
+            "Location": "Redmond, WA",
+            "Dates of Employment": "Jun 2016 - Present",
+            "Responsibilities/Projects": [
+                "Magic Ink and Ink Lookup: Worked on recognizing ink strokes into words (using onboard IA) and recognizing keywords/entities given the context (using custom entity recognition service). Implemented accumulation of images or interactive widgets (from various online sources) related to the keyword, which could be inserted onto the Whiteboard canvas.",
+                "Whiteboard App: Implemented sharing experience for the new collaboration focused Whiteboard app. Worked on creating and joining a shared session via OneDrive for Business storage. Also added new XAML components to handle dialogs within the app.",
+                "Content Addins: Implemented content addins, for OneNote desktop app, as small embedded web apps that would get hosted within managed WebView controls. Created their persistence model and rendering on the desktop application."
+            ]
+        },
+        {
+            "Job Title": "Software Engineer \u00b7 OneNote",
+            "Company Name": "Microsoft",
+            "Location": "Vancouver, Canada",
+            "Dates of Employment": "Nov 2014 - May 2016",
+            "Responsibilities/Projects": [
+                "Embedded Videos and Web Content: Worked on adding ability on OneNote to host web content, making sure it is backwards compatible. Implemented features to make handling and editing web content on the OneNote page easier. Added support for this feature on OneNote web app.",
+                "Merged Cells for Tables: Added support for spanned cells for tables in OneNote, keeping in mind backwards compatibility. Implemented these capabilities in OneNote web app.",
+                "Realtime Ink: As a ramp up project, prototyped ink collaboration using SignalR web-sockets. Worked on experimenting load and delay with multiple inputs in realtime."
+            ]
+        },
+        {
+            "Job Title": "Software Engineering Intern \u00b7 Apps for Enterprises",
+            "Company Name": "Oracle",
+            "Location": "Bangalore, India",
+            "Dates of Employment": "Nov 2014 - May 2016",
+            "Responsibilities/Projects": [
+                "Containerization of iOS Apps: Worked on sand-boxing of enterprise applications (containerization) which enable them to be installed on employee\u2019s iOS devices without worrying about security issues. Implemented wrapping of library function calls using swizzling, objective-c backend, linker flags and dynamic library injection.",
+                "Sandboxed Browser App: Built a demo browser application for iOS. Containerized the app using the custom script, so that it only works for certain urls."
+            ]
+        }
+    ],
+    "Projects": [
+        {
+            "Project Title": "Course Allotment Simulation using SAT Solver",
+            "Description/Technologies Used": "As part of Bachelors project, worked on solving the real world problem of finding a best course allocation under various constraints as a SAT (Satisfiability) problem and infer effects of different policies on course allotment and choices. Studied relative efficiency of various heuristics modeled on different solvers like MiniSAT and Glucose.",
+            "Outcomes/Results": ""
+        },
+        {
+            "Project Title": "IIT Bombay Hospital Digitization",
+            "Description/Technologies Used": "Created a complete web application in Java that could handle operations on relational MySQL databases to handle various processes of the university hospital.",
+            "Outcomes/Results": ""
+        },
+        {
+            "Project Title": "Simple 2D Physics Engine",
+            "Description/Technologies Used": "Wrote a physics engine for simple round bodies providing a back-end that could generate coordinates in real-time with collision, gravity, restitution and custom resolution of time.",
+            "Outcomes/Results": ""
+        },
+        {
+            "Project Title": "Social Sea",
+            "Description/Technologies Used": "Create a lightweight social search engine that shows the results based on user input, leveraging APIs of multiple social media platforms like Twitter to display relevant results for the user's query. The project was built using Node.js and various other open source tools.",
+            "Outcomes/Results": ""
+        }
+    ],
+    "Skills": {
+        "Programming Languages": [
+            "Python",
+            "Java"
+        ],
+        "Frameworks/Libraries": [
+            "Node.js",
+            "SignalR"
+        ],
+        "Tools/Technologies": [
+            "OneNote",
+            "Whiteboard App",
+            "WebView Controls"
+        ]
+    }
+}

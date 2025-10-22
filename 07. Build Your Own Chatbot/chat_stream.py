@@ -21,17 +21,16 @@ from langchain_core.output_parsers import StrOutputParser
 
 load_dotenv('./../.env')
 
-
 st.title("Make Your Own Chatbot")
 st.write("Chat with me! Catch me at https://youtube.com/kgptalkie")
 
 base_url = "http://localhost:11434"
-model = 'llama3.2:3b'
+model = 'qwen3'
 
 user_id = st.text_input("Enter your user id", "laxmikant")
 
 def get_session_history(session_id):
-    return SQLChatMessageHistory(session_id, "sqlite:///chat_history.db")
+    return SQLChatMessageHistory(session_id, connection = "sqlite:///chat_history.db")
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []

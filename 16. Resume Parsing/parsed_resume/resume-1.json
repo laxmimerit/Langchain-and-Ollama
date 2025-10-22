@@ -1,0 +1,84 @@
+{
+    "Contact Information": {
+        "Name": "Kumar Pallav",
+        "Email": "me@kumarpallav.com",
+        "Phone Number": "+1-206-910-0006",
+        "Website/Portfolio": "http://kumarpallav.com"
+    },
+    "Education": {
+        "Institution Name": "Indian Institute of Technology, Bombay",
+        "Degree": "Bachelor of Computer Science and Engineering (with Hons.)",
+        "Field of Study": "Computer Science and Engineering",
+        "Graduation Dates": "Jun 2010 - May 2014"
+    },
+    "Experience": [
+        {
+            "Job Title": "Software Engineer \u00b7 OneNote",
+            "Company Name": "Microsoft",
+            "Location": "Redmond, WA",
+            "Dates of Employment": "Jun 2016 - Present",
+            "Responsibilities/Projects": [
+                "Magic Ink and Ink Lookup: Recognizing ink strokes into words, custom entity recognition, inserting interactive widgets on Whiteboard canvas",
+                "Whiteboard App: Shared session via OneDrive for Business, XAML components for dialogs",
+                "Content Addins: Embedded web apps for OneNote desktop, persistence model, rendering"
+            ]
+        },
+        {
+            "Job Title": "Software Engineer \u00b7 OneNote",
+            "Company Name": "Microsoft",
+            "Location": "Vancouver, Canada",
+            "Dates of Employment": "Nov 2014 - May 2016",
+            "Responsibilities/Projects": [
+                "Embedded Videos and Web Content: Backwards compatibility, editing web content in OneNote web app",
+                "Merged Cells for Tables: Spanned cells in tables, OneNote web app support",
+                "Realtime Ink: Prototyped ink collaboration using SignalR web-sockets"
+            ]
+        },
+        {
+            "Job Title": "Software Engineering Intern \u00b7 Apps for Enterprises",
+            "Company Name": "Oracle",
+            "Location": "Bangalore, India",
+            "Dates of Employment": "Nov 2014 - May 2016",
+            "Responsibilities/Projects": [
+                "Containerization of iOS Apps: Sandboxing, swizzling, dynamic library injection",
+                "Sandboxed Browser App: Custom script for URL-restricted iOS browser"
+            ]
+        }
+    ],
+    "Projects": [
+        {
+            "Project Title": "Course Allotment Simulation using SAT Solver",
+            "Description/Technologies Used": "Solved course allocation as SAT problem, studied MiniSAT and Glucose solvers",
+            "Outcomes/Results": "Analyzed policy effects on course allotment"
+        },
+        {
+            "Project Title": "IIT Bombay Hospital Digitization",
+            "Description/Technologies Used": "Java web app with MySQL for hospital operations",
+            "Outcomes/Results": "Managed relational database processes"
+        },
+        {
+            "Project Title": "Simple 2D Physics Engine",
+            "Description/Technologies Used": "Physics engine for round bodies with collision, gravity, and real-time coordinates",
+            "Outcomes/Results": "Generated real-time physics simulations"
+        },
+        {
+            "Project Title": "Social Sea",
+            "Description/Technologies Used": "Lightweight social search engine with peer-group page-ranking",
+            "Outcomes/Results": "Ranked results based on search history and ratings"
+        }
+    ],
+    "Skills": {
+        "Programming Languages": [
+            "C++",
+            "CSharp",
+            "JavaScript",
+            "Java",
+            "C"
+        ],
+        "Technologies/Tools": [
+            "NodeJs",
+            "UWP",
+            "Win32"
+        ]
+    }
+}
