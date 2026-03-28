@@ -7,24 +7,17 @@ typing-extensions>=4.15.0
 langchain>=1.0.0
 langchain-community>=0.4
 langchain-core>=1.0.0
-langchain-huggingface>=1.0.0
 langchain-ollama>=1.0.0
-langchain-openai>=1.0.0
 langgraph>=1.0.0
 langsmith>=0.4.37
 
 # Document processing
 pymupdf>=1.26.5
-pypdf2>=3.0.1
-unstructured>=0.18.15
 openpyxl>=3.1.5
 python-pptx>=1.0.2
-python-magic>=0.4.27
 docx2txt>=0.9
 markitdown[all]>=0.0.2
 docling[vlm]>=2.57.0
-docutils>=0.22.2
-xmltodict>=1.0.2
 
 # Vector stores & embeddings
 faiss-cpu>=1.12.0
@@ -36,16 +29,12 @@ tiktoken>=0.12.0
 
 # API clients
 ollama>=0.6.0
-openai>=2.5.0
-tavily-python>=0.7.12
 
 # Web scraping & searching
 beautifulsoup4>=4.14.2
 lxml>=5.4.0
 selenium>=4.37.0
-duckduckgo-search>=8.1.1
 ddgs>=9.5.2
-wikipedia>=1.4.0
 
 # Database
 pymysql>=1.1.2
@@ -54,22 +43,5 @@ pymysql>=1.1.2
 streamlit>=1.50.0
 
 # Utilities
-huggingface-hub>=0.35.3
-transformers>=4.57.1
-tokenizers>=0.22.1
-datasets>=4.2.0
-evaluate>=0.4.6
-accelerate>=1.10.1
-torch
-torchvision
 ipywidgets>=8.1.7
 jupyter>=1.1.1
-
-# Media processing
-pytube>=15.0.0
-youtube-transcript-api>=1.2.3
-
-# Additional tools
-email-validator>=2.3.0
-textblob>=0.19.0
-msoffcrypto-tool>=5.4.2
