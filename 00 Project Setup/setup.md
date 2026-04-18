@@ -1,4 +1,5 @@
 # ML Environment Setup Guide
+
 Setup for LangChain, LangGraph & Ollama with GPU support (Windows/Linux/Mac)
 
 **Prerequisites:** Install Anaconda/Miniconda from https://www.anaconda.com/docs/getting-started/anaconda/install#basic-install-instructions
@@ -6,17 +7,20 @@ Setup for LangChain, LangGraph & Ollama with GPU support (Windows/Linux/Mac)
 ---
 
 ## 1. Check Conda
+
 ```bash
 conda --version
 conda env list
 ```
 
 ## 2. Create ML Environment
+
 ```bash
 conda create -n ml python=3.12 -y
 ```
 
 ## 3. Disable Base Auto-Activation
+
 ```bash
 conda config --set auto_activate_base false
 ```
@@ -24,6 +28,7 @@ conda config --set auto_activate_base false
 ## 4. Setup ML Auto-Activation
 
 ### Windows PowerShell
+
 ```powershell
 # Create/edit profile
 notepad $PROFILE
@@ -37,6 +42,7 @@ conda activate ml
 ```
 
 ### Linux/Mac
+
 ```bash
 # For Bash - edit ~/.bashrc
 # For Zsh - edit ~/.zshrc
@@ -50,21 +56,25 @@ source ~/.bashrc  # or ~/.zshrc
 ```
 
 ## 5. Activate Environment
+
 ```bash
 conda activate ml
 ```
 
 ## 6. Navigate to Project
+
 ```bash
 cd path/to/your/project
 ```
 
 ## 7. Install Requirements
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ## 8. Install PyTorch
+
 Visit https://pytorch.org/get-started/locally/
 
 Select the latest PyTorch and Install.
@@ -74,6 +84,7 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
 ```
 
 ## 9. Verify GPU
+
 ```python
 import torch
 torch.cuda.is_available()  # Should return True
@@ -82,6 +93,7 @@ exit()
 ```
 
 ## 10. Setup Jupyter Kernel
+
 1. Open notebook in VS Code
 2. Install ipykernel if prompted
 3. Select kernel: `ml (Python 3.12.4)`
@@ -92,6 +104,7 @@ exit()
 ## Troubleshooting
 
 **Conda not recognized:**
+
 - **Windows:** Add Conda to PATH
   1. Find Anaconda/Miniconda installation path (usually `C:\Users\YourName\anaconda3` or `C:\ProgramData\anaconda3`)
   2. Add these paths to System Environment Variables:
@@ -108,15 +121,18 @@ exit()
   Then restart terminal
 
 **GPU not detected:**
+
 - Check drivers: `nvidia-smi`
 - Reinstall PyTorch with correct CUDA version
 
 **PowerShell execution error:**
+
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
 **Kernel not showing:**
+
 ```bash
 pip install ipykernel
 python -m ipykernel install --user --name ml
@@ -125,6 +141,7 @@ python -m ipykernel install --user --name ml
 ---
 
 ## Quick Commands
+
 ```bash
 conda env list              # List environments
 conda activate ml           # Activate

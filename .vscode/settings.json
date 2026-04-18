@@ -1,0 +1,15 @@
+{
+  "python.defaultInterpreterPath": "/opt/anaconda3/envs/ml/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.profiles.osx": {
+    "zsh (ml)": {
+      "path": "zsh",
+      "args": [
+        "-l",
+        "-c",
+        "source /opt/anaconda3/etc/profile.d/conda.sh && conda activate ml; exec zsh -l"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh (ml)"
+}
